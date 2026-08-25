@@ -9,3 +9,11 @@
 - Kimball Star Schema
 - Historical Tracking
 - Reporting
+
+## Current Project Status
+
+- Source CSV extraction completed
+- SQLite staging layer completed
+- First SQL validation rule completed
+- Validation runner completed
+- Target dimensional model documented
