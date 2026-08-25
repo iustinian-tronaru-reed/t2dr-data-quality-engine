@@ -1,536 +1,536 @@
-unique_referral_id,Organisation_code_of_LCD_provider,Date_of_Session_or_Engagement,Type_of_Health_Incident,Date_of_health_incident,Type_of_side_effect,Type_of_side_effect_other,Type_of_adverse_event,Type_of_adverse_event_other,Fibre_Supplement_pack_provided,Date_fibre_Supplement_pack_provided,Has_the_capillary_blood_glucose_flag_been_triggered,Date_capillary_blood_glucose_flag_triggered,Has_blood_pressure_flag_been_triggered,Date_blood_pressure_flag_triggered,Serious_adverse_event_NLU,Date_serious_adverse_event_occurred_NLU,Programme_deintensified,Date_programme_deintensified,Date_programme_reintensified,Any_alerts_discussed_with_Medical_Director,Number_of_unique_alerts_given_to_primary_care,Date_of_alert_given_to_primary_care,Action(s)_taken,Programme_Name
-1753102,DM9,2024-07-19,S,2024-07-18,3,,,,N,,N,,N,,,,N,,,N,0,,manage stress levels/monitor with GP,T2DR - Stoke and Staffordshire
-1753102,DM9,2024-07-04,S,2024-07-04,3,,,,N,,N,,N,,,,N,,,N,0,,"rest when needed, hydrate, see pharmacy/GP",T2DR - Stoke and Staffordshire
-1877199,DM9,2025-03-19,S,2025-03-19,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydration, seek GP review if needed",T2DR - Stoke and Staffordshire
-1689035,DM9,2024-03-27,S,2024-03-25,13,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1689035,DM9,2024-03-28,S,2024-03-28,3,,,,N,,N,,N,,,,N,,,N,0,,Consult GP,T2DR - Stoke and Staffordshire
-1733546,DM9,2024-07-19,S,2024-07-19,13,,,,N,,N,,N,,,,N,,,N,0,,Split shakes up,T2DR - Stoke and Staffordshire
-1733546,DM9,2024-08-13,S,2024-08-13,4,,,,N,,N,,N,,,,N,,,N,0,,"Member contacted GP already, await appointment",T2DR - Stoke and Staffordshire
-1784760,DM9,2024-10-29,S,2024-10-29,12,diverticulitis flare up,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1784760,DM9,2025-01-15,S,2025-01-15,8,,,,N,,N,,N,,,,N,,,N,0,,"follow medical advice, hydration",T2DR - Stoke and Staffordshire
-1762386,DM9,2025-03-31,S,2025-03-29,12,Low BP,,,N,,N,,L,2025-03-31,,,N,,,N,1,2025-03-31,Inform GP,T2DR - Stoke and Staffordshire
-1792875,DM9,2024-11-27,S,2024-11-26,12,"tingling and numbness, headache",,,N,,N,,N,,,,N,,,Y,0,,"has GP appointment 27.11, follow their advice",T2DR - Stoke and Staffordshire
-1877199,DM9,2025-07-22,A,2025-07-21,,,7,"Unwell, resulted in A&E",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1925427,DM9,2025-04-28,S,2025-04-26,12,Headache and bad stomach,,,N,,N,,N,,,,N,,,N,0,,"Hydration, split shakes",T2DR - Stoke and Staffordshire
-1762386,DM9,2024-11-25,S,2024-11-23,12,low diastolic BP,,,N,,N,,L,2024-11-25,,,N,,,N,0,,Repeat BP,T2DR - Stoke and Staffordshire
-1792875,DM9,2025-01-19,S,2025-01-19,12,Low BP,,,N,,N,,L,2025-01-19,,,N,,,N,0,,Had GP review and reduced medication so monitor.,T2DR - Stoke and Staffordshire
-1981641,DM9,2025-08-18,S,2025-08-15,4,,,,N,,N,,N,,,,N,,,N,0,,"Visiting dr, monitor",T2DR - Stoke and Staffordshire
-1906970,DM9,2025-04-14,S,2025-04-14,4,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, check BG, see GP if needed",T2DR - Stoke and Staffordshire
-1757468,DM9,2025-05-09,S,2025-05-09,12,raised blood glucose,,,N,,Y,2025-05-09,N,,,,N,,,N,1,2025-05-09,Inform GP.,T2DR - Stoke and Staffordshire
-1709827,DM9,2024-12-17,S,2024-12-17,12,"Sinus, chest infection, trapped nerve in neck",,,N,,N,,N,,,,N,,,N,0,,See GP and physio,T2DR - Stoke and Staffordshire
-1789169,DM9,2025-04-30,S,2025-04-30,12,Struggling with mental health,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1689035,DM9,2024-03-27,S,2024-03-25,13,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1762372,DM9,2024-11-19,S,2024-11-18,12,Raised BP,,,N,,N,,H,2024-11-19,,,N,,,N,0,,Contacted GP,T2DR - Stoke and Staffordshire
-1799168,DM9,2024-12-16,S,2024-12-16,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
-1733541,DM9,2024-06-11,S,2024-06-11,11,,,,N,,N,,N,,,,N,,,Y,0,,referred for diabetes eye test,T2DR - Stoke and Staffordshire
-1899325,DM9,2025-06-10,A,2025-06-10,,,3,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1735730,DM9,2024-07-03,S,2024-07-03,1,,,,Y,2024-07-03,N,,N,,,,N,,,N,0,,"fibre, hydrate, if no improvement, see GP",T2DR - Stoke and Staffordshire
-1759255,DM9,2024-12-30,S,2024-12-30,12,low BP,,,N,,N,,L,2024-12-30,,,N,,,N,1,2024-12-30,Inform GP,T2DR - Stoke and Staffordshire
-1733541,DM9,2024-06-11,S,2024-06-11,12,Elevated HbA1c reading,,,N,,N,,N,,,,N,,,Y,0,,GP aware and referred for CT scan on liver + pancr,T2DR - Stoke and Staffordshire
-1905485,DM9,2025-03-28,S,2025-03-27,12,Raised BP,,,N,,N,,H,2025-03-28,,,N,,,N,0,,Monitor as 1st day of TDR,T2DR - Stoke and Staffordshire
-1753108,DM9,2024-07-19,S,2024-07-18,3,,,,N,,N,,N,,,,N,,,N,0,,"Increase fluid, stress management, reduce screens",T2DR - Stoke and Staffordshire
-1885515,DM9,2025-07-23,S,2025-07-22,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1712550,DM9,2025-02-18,S,2025-02-18,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1902591,DM9,2025-06-17,S,2025-06-17,4,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1799168,DM9,2024-11-18,S,2024-11-16,15,,,,N,,Y,2024-11-18,H,2024-11-18,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
-1699258,DM9,2024-12-30,S,2024-12-30,12,raised blood pressure twice,,,N,,N,,H,2024-12-30,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1830437,DM9,2025-01-20,S,2025-01-20,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed.",T2DR - Stoke and Staffordshire
-1762372,DM9,2024-09-02,S,2024-09-02,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor BP and BG",T2DR - Stoke and Staffordshire
-1753102,DM9,2024-07-04,S,2024-07-04,13,bloated,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1887296,DM9,2025-03-10,S,2025-03-07,9,,,,N,,N,,N,,,,N,,,N,0,,"monitor, if worsen seek medical advice",T2DR - Stoke and Staffordshire
-1793810,DM9,2024-09-27,S,2024-09-27,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
-1790117,DM9,2024-09-30,S,2024-09-27,8,,,,N,,N,,N,,,,N,,,N,0,,"Hydration, monitor",T2DR - Stoke and Staffordshire
-1744315,DM9,2025-03-24,S,2025-03-23,3,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1750656,DM9,2024-12-12,S,2024-12-12,12,"tiredness, tinnitus, shortness of breath",,,N,,N,,N,,,,N,,,N,0,,To see GP,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-04-14,S,2025-04-14,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1733589,DM9,2024-07-09,S,2024-07-08,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, speak to pharmacy/GP if no improvement",T2DR - Stoke and Staffordshire
-1887296,DM9,2025-03-12,S,2025-03-12,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, try soup, see GP if no improvement",T2DR - Stoke and Staffordshire
-1925408,DM9,2025-05-16,S,2025-05-16,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1877199,DM9,2025-01-30,S,2025-01-30,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1750616,DM9,2025-07-14,S,2025-06-13,12,Knee replacement,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1784593,DM9,2024-10-10,S,2024-10-10,15,,,,N,,N,,N,,,,N,,,N,0,,Follow GP advice,T2DR - Stoke and Staffordshire
-1714175,DM9,2024-05-22,S,2024-05-21,8,,,,N,,N,,N,,,,N,,,N,0,,"Reduce fibre supplement, hydrate, if cont see GP",T2DR - Stoke and Staffordshire
-1888197,DM9,2025-03-18,S,2025-03-18,1,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1753082,DM9,2025-04-08,A,2025-03-27,,,7,Brain tumour,N,,N,,N,,,,N,,,Y,0,,Await MDT review,T2DR - Stoke and Staffordshire
-1779972,DM9,2024-09-02,S,2024-08-30,8,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
-1742480,DM9,2024-08-12,S,2024-08-12,12,Slip disc resulted in hospital admission,,,N,,N,,N,,,,N,,,N,0,,Member to follow medical advise,T2DR - Stoke and Staffordshire
-1784593,DM9,2024-12-09,S,2024-12-09,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1712515,DM9,2024-08-21,S,2024-08-21,11,,,,N,,Y,2024-08-21,N,,,,N,,,Y,0,,Member is seeing GP,T2DR - Stoke and Staffordshire
-1755572,DM9,2024-07-18,S,2024-07-17,3,,,,N,,N,,N,,,,N,,,N,0,,Increase fluid intake,T2DR - Stoke and Staffordshire
-1735730,DM9,2024-07-24,S,2024-07-23,15,,,,N,,N,,N,,,,N,,,N,0,,antibiotics from GP,T2DR - Stoke and Staffordshire
-1783978,DM9,2024-09-23,S,2024-09-20,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
-1949826,DM9,2025-07-18,S,2025-07-18,12,Postural symptoms possibly associated with low BP,,,N,,N,,N,,,,N,,,N,1,2025-07-18,Inform GP.,T2DR - Stoke and Staffordshire
-1786311,DM9,2025-03-23,S,2025-03-23,12,Raised BG 2nd time,,,N,,Y,2025-03-23,N,,,,N,,,N,1,2025-03-24,Inform GP,T2DR - Stoke and Staffordshire
-1733622,DM9,2025-03-18,S,2025-03-17,12,Blood glucose raised,,,N,,Y,2025-03-18,N,,,,N,,,N,0,,"Re-tested and back to normal, continue to monitor",T2DR - Stoke and Staffordshire
-1805743,DM9,2025-08-08,S,2025-08-07,12,Raised BG twice,,,N,,Y,2025-08-07,N,,,,N,,,N,1,2025-08-07,Inform GP.,T2DR - Stoke and Staffordshire
-1739222,DM9,2024-10-02,A,2024-10-02,,,12,,N,,N,,N,,,,N,,,Y,0,,To follow Neuro advise,T2DR - Stoke and Staffordshire
-1810832,DM9,2025-01-06,S,2025-01-06,12,Diarrhoea and vomitting,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
-1686296,DM9,2025-01-27,S,2025-01-27,12,raised blood pressure,,,N,,N,,H,2025-01-27,,,N,,,N,3,2025-01-28,Inform GP.,T2DR - Stoke and Staffordshire
-1974245,DM9,2025-07-25,S,2025-07-23,12,stomach disturbed,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1831260,DM9,2025-05-26,S,2025-05-26,12,Raised BG,,,N,,Y,2025-05-26,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1790158,DM9,2025-05-06,S,2025-05-06,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1892599,DM9,2025-07-14,S,2025-07-11,12,Low BP,,,N,,N,,L,2025-07-14,,,N,,,N,1,2025-07-14,Inform GP.,T2DR - Stoke and Staffordshire
-1908339,DM9,2025-07-30,S,2025-07-29,13,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-03-24,S,2025-03-24,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1762382,DM9,2025-02-12,S,2025-02-12,12,Post knee operation complications,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1689121,DM9,2025-02-10,S,2025-02-08,12,Low BP,,,N,,N,,L,2025-02-10,,,N,,,N,1,2025-02-10,GP informed,T2DR - Stoke and Staffordshire
-1806847,DM9,2024-10-22,S,2024-10-22,8,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
-1806866,DM9,2025-01-06,A,2025-01-06,,,7,"Headache, fever, hospital admission",N,,N,,N,,,,Y,2025-01-06,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-04-07,S,2025-04-07,15,,,,N,,N,,N,,,,N,,,N,0,,contacting GP,T2DR - Stoke and Staffordshire
-1880141,DM9,2025-07-02,S,2025-07-02,12,headache and nausea,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1744315,DM9,2024-08-12,S,2024-08-12,12,"Light headed, dizziness and dirrhoea",,,N,,N,,N,,,,N,,,N,0,,Seek medical review if persist.,T2DR - Stoke and Staffordshire
-1719422,DM9,2024-06-20,S,2024-06-20,3,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
-1856143,DM9,2025-01-28,S,2025-01-28,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1712515,DM9,2024-08-23,S,2024-08-22,12,raised blood glucose,,,N,,Y,2024-08-23,N,,,,N,,,Y,0,,"Monitor, started medication and under GP care",T2DR - Stoke and Staffordshire
-1735730,DM9,2024-07-24,S,2024-07-23,13,,,,N,,N,,N,,,,N,,,Y,0,,consume shake/and or veg with antibiotic,T2DR - Stoke and Staffordshire
-1712525,DM9,2024-07-04,S,2024-07-04,12,raised blood pressure,,,N,,N,,H,2024-07-04,,,N,,,N,2,2024-07-05,Inform GP.,T2DR - Stoke and Staffordshire
-1916964,DM9,2025-04-22,S,2025-04-19,1,,,,Y,2025-04-22,N,,N,,,,N,,,N,0,,Take fibre supplement,T2DR - Stoke and Staffordshire
-1831260,DM9,2025-03-11,S,2025-03-10,12,Raised BG level 20.3 mmol/L,,,N,,Y,2025-03-11,N,,,,N,,,N,2,2025-03-11,Inform GP.,T2DR - Stoke and Staffordshire
-1757425,DM9,2024-07-24,S,2024-07-24,3,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
-1743355,DM9,2025-02-17,S,2025-02-17,12,Injury,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
-1772915,DM9,2024-10-06,S,2024-10-06,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1881113,DM9,2025-02-11,S,2025-02-11,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1658897,DM9,2024-02-23,S,2024-02-23,12,"White tongue, mild discomfort",,,N,,N,,N,,,,N,,,N,0,,"Monitor, speak to GP if concern",T2DR - Stoke and Staffordshire
-1888210,DM9,2025-04-22,S,2025-04-19,15,,,,N,,N,,N,,,,N,,,N,0,,rest,T2DR - Stoke and Staffordshire
-1830437,DM9,2025-02-03,S,2025-02-03,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1887296,DM9,2025-06-26,S,2025-06-26,15,,,,N,,N,,N,,,,N,,,N,0,,"On antibiotics, follow medical advice",T2DR - Stoke and Staffordshire
-1888653,DM9,2025-03-11,S,2025-03-11,12,mouth sore and itchy with vegetable soup only,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1788242,DM9,2024-10-10,S,2024-10-10,4,,,,N,,N,,N,,,,N,,,N,0,,"speak to GP about pain meds, consider food",T2DR - Stoke and Staffordshire
-1863605,DM9,2025-02-18,S,2025-02-18,12,low BP,,,N,,N,,L,2025-02-18,,,N,,,N,1,2025-02-19,Inform GP,T2DR - Stoke and Staffordshire
-1689035,DM9,2024-03-28,S,2024-03-25,3,,,,N,,N,,N,,,,N,,,N,0,,Consult GP,T2DR - Stoke and Staffordshire
-1753086,DM9,2024-07-18,S,2024-07-18,3,,,,N,,N,,N,,,,N,,,N,0,,Increase fluid intake,T2DR - Stoke and Staffordshire
-1907260,DM9,2025-05-13,S,2025-05-13,12,Chest was tight and couldn't breathe,,,N,,N,,N,,,,N,,,N,0,,Seek a medical review,T2DR - Stoke and Staffordshire
-1888210,DM9,2025-07-02,S,2025-07-02,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1751437,DM9,2024-08-30,S,2024-08-30,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
-1784740,DM9,2024-12-03,S,2024-12-03,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1727481,DM9,2024-09-25,S,2024-09-25,15,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
-1799168,DM9,2024-12-23,S,2024-12-23,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1848019,DM9,2025-04-07,S,2025-03-26,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1931167,DM9,2025-07-29,S,2025-07-29,13,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1762382,DM9,2024-07-24,S,2024-07-22,5,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
-1770222,DM9,2025-01-02,S,2025-01-02,12,"Newly diagnosed sleep apnoea, PCOS",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1791960,DM9,2024-10-28,S,2024-10-27,12,Low BP,,,N,,N,,L,2024-10-28,,,N,,,N,0,,Inform GP,T2DR - Stoke and Staffordshire
-1729325,DM9,2024-10-18,S,2024-10-18,15,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1766401,DM9,2024-10-02,S,2024-10-02,12,Fainting,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1888197,DM9,2025-03-28,A,2025-03-20,,,7,sever back pain resulted in A&E admission,N,,N,,N,,,,N,,,N,0,,"All investigations were normal, under GP care",T2DR - Stoke and Staffordshire
-1750656,DM9,2024-07-09,S,2024-07-09,8,,,,N,,N,,N,,,,N,,,N,0,,split shake intake and monitor,T2DR - Stoke and Staffordshire
-1848019,DM9,2025-02-03,S,2025-01-29,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1851801,DM9,2025-07-16,S,2025-07-15,12,Raised BP,,,N,,N,,H,2025-07-16,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1822685,DM9,2024-12-30,S,2024-12-30,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1792875,DM9,2025-02-10,S,2025-02-09,12,Low BP,,,N,,N,,L,2025-02-10,,,N,,,N,0,,"Follow medical advice, GP is aware and monitoring",T2DR - Stoke and Staffordshire
-1791960,DM9,2024-11-07,S,2024-11-06,12,"Worsen pre-existing comorbidity, alcohol intake",,,N,,N,,N,,,,Y,2024-11-07,,Y,1,2024-11-07,"Take a pause, continue to seek medical review",T2DR - Stoke and Staffordshire
-1880105,DM9,2025-03-03,S,2025-02-26,12,Low BP,,,N,,N,,L,2025-03-03,,,N,,,N,1,2025-03-03,Inform GP.,T2DR - Stoke and Staffordshire
-1906984,DM9,2025-04-28,S,2025-04-28,12,Being sick,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1744304,DM9,2024-07-12,S,2024-07-12,8,,,,N,,N,,N,,,,N,,,N,0,,"split his shakes/soups, if no improvement see GP",T2DR - Stoke and Staffordshire
-1711587,DM9,2025-02-05,S,2025-02-05,12,hospital admission for CT stomach,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-03-27,S,2025-03-26,3,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1840730,DM9,2025-04-11,S,2025-04-11,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, seek medical review if needed",T2DR - Stoke and Staffordshire
-1878022,DM9,2025-05-28,S,2025-05-28,15,UTI,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1731378,DM9,2024-07-02,S,2024-07-02,8,,,,N,,N,,N,,,,N,,,N,0,,"split shakes into smaller volume, rehydrate",T2DR - Stoke and Staffordshire
-1698129,DM9,2024-05-09,S,2024-05-09,12,raised systolic BP,,,N,,N,,H,2024-05-09,,,N,,,N,0,,"Monitor and record, under GP care",T2DR - Stoke and Staffordshire
-1766427,DM9,2024-08-19,S,2024-08-18,4,,,,N,,N,,N,,,,N,,,N,0,,"hydration, slow down standing,sitting, monitor BG",T2DR - Stoke and Staffordshire
-1888210,DM9,2025-03-11,S,2025-03-11,8,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if worsens or persist.,T2DR - Stoke and Staffordshire
-1772048,DM9,2024-10-29,S,2024-10-29,4,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, see GP if needed",T2DR - Stoke and Staffordshire
-1793803,DM9,2025-01-19,S,2025-01-19,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical review if needed.,T2DR - Stoke and Staffordshire
-1806847,DM9,2025-07-30,S,2025-07-28,4,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1921779,DM9,2025-06-12,S,2025-06-12,7,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
-1685441,DM9,2025-01-31,S,2025-01-31,12,arthritis symptom worsened,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1739222,DM9,2024-08-12,S,2024-08-12,12,Light headed and dizziness,,,N,,N,,N,,,,N,,,N,0,,Seek medical review if persist.,T2DR - Stoke and Staffordshire
-1697172,DM9,2024-09-04,S,2024-09-04,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1888197,DM9,2025-05-30,S,2025-05-30,12,Newly diagnosed with osteoporosis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1744304,DM9,2024-08-13,S,2024-08-13,4,,,,N,,N,,N,,,,N,,,N,0,,"Monitor BG and BP, slow down, gentle activities",T2DR - Stoke and Staffordshire
-1844490,DM9,2025-01-13,S,2025-01-13,9,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1814913,DM9,2025-03-20,S,2025-03-20,12,"bad stomach, worried and depressed",,,N,,N,,N,,,,N,,,N,0,,"Resources shared, signposted to GP",T2DR - Stoke and Staffordshire
-1887296,DM9,2025-06-23,S,2025-06-23,13,"pain after food, sickness, unable to eat much",,,N,,N,,N,,,,N,,,Y,0,,"Seek GP review, if sever, call 111",T2DR - Stoke and Staffordshire
-1697284,DM9,2024-11-08,S,2024-10-31,12,A&E due to chest pain,,,N,,N,,N,,,,N,,,N,0,,"Under GP care, follow their advice",T2DR - Stoke and Staffordshire
-1762382,DM9,2025-02-21,S,2025-02-21,12,post knee surgery complications,,,N,,N,,N,,,,N,,,N,0,,follow medical care,T2DR - Stoke and Staffordshire
-1791960,DM9,2024-09-25,S,2024-09-25,12,"Pain in leg, fluid leaking from leg",,,N,,N,,N,,,,N,,,Y,0,,Follow GP advice,T2DR - Stoke and Staffordshire
-1711587,DM9,2024-07-10,A,2024-07-10,,,7,newly diagnosed with neuropathy,N,,N,,N,,,,N,,,Y,0,,member is under the GP care,T2DR - Stoke and Staffordshire
-1844490,DM9,2025-02-03,S,2025-01-30,12,Diagnosed with diverticulitis,,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1689121,DM9,2024-06-20,S,2024-06-11,12,"dry mouth, thirsty, polyuria",,,N,,N,,N,,,,N,,,Y,0,,"Member spoke to GP, follow their advice",T2DR - Stoke and Staffordshire
-1743355,DM9,2025-03-11,S,2025-03-11,14,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1806835,DM9,2025-02-23,S,2025-02-23,12,"Dizziness, headache",,,N,,N,,N,,,,N,,,N,0,,"hydrate, see GP if needed",T2DR - Stoke and Staffordshire
-1859549,DM9,2025-06-25,A,2025-06-25,,,7,Anxiety attack resulted in hospitalisation,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1711587,DM9,2024-09-09,S,2024-09-06,15,,,,N,,N,,N,,,,N,,,N,0,,Taking antibiotics,T2DR - Stoke and Staffordshire
-1789201,DM9,2025-05-07,S,2025-05-07,12,raised blood pressure,,,N,,N,,H,2025-05-07,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1793803,DM9,2024-10-17,S,2024-10-17,7,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1899325,DM9,2025-04-22,S,2025-04-22,12,Back injury,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1904271,DM9,2025-05-27,S,2025-05-27,4,,,,N,,N,,N,,,,N,,,N,0,,"Has a GP appointment, Follow medical advice",T2DR - Stoke and Staffordshire
-1755572,DM9,2024-07-26,S,2024-07-26,4,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1831260,DM9,2025-02-05,S,2025-02-04,12,raised blood glucose,,,N,,Y,2025-02-05,N,,,,N,,,N,2,2025-02-05,Inform GP,T2DR - Stoke and Staffordshire
-1870553,DM9,2025-02-27,A,2025-02-24,,,7,BG 1.3 resulted in calling ambulance,N,,Y,2025-02-27,N,,,,Y,2025-02-28,,Y,0,,"Stop TDR, see GP and follow their advice",T2DR - Stoke and Staffordshire
-1750656,DM9,2024-12-23,S,2024-12-23,12,Small traces of abnormalities with ECG found,,,N,,N,,N,,,,N,,,N,0,,Await further investigations,T2DR - Stoke and Staffordshire
-1701193,DM9,2024-08-23,S,2024-08-23,12,raised blood glucose,,,N,,Y,2024-08-23,N,,,,N,,,N,0,,Member saw GP,T2DR - Stoke and Staffordshire
-1892599,DM9,2025-04-08,S,2025-04-08,14,having a difficult time with her mental health.,,,N,,N,,N,,,,N,,,N,0,,Seek input from Mental health team,T2DR - Stoke and Staffordshire
-1851791,DM9,2025-07-15,S,2025-07-14,12,Swollen lips followed by eating gammon,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1887296,DM9,2025-05-02,S,2025-05-01,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1888197,DM9,2025-03-31,S,2025-03-28,1,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1792875,DM9,2024-11-20,S,2024-11-19,12,tingling and numbness,,,N,,N,,N,,,,N,,,Y,0,,Signposted to GP and call GP today,T2DR - Stoke and Staffordshire
-1877228,DM9,2025-07-14,S,2025-07-14,12,Low BP,,,N,,N,,L,2025-07-14,,,N,,,N,1,2025-07-14,Inform GP.,T2DR - Stoke and Staffordshire
-1712515,DM9,2024-05-02,S,2024-05-01,3,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
-1866884,DM9,2025-07-16,S,2025-07-16,12,Diagnosed with osteoarthritis in knee,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1905485,DM9,2025-04-07,S,2025-04-06,12,Acid reflux,,,N,,N,,N,,,,N,,,N,0,,"none needed, improved, has medication if necessary",T2DR - Stoke and Staffordshire
-1766401,DM9,2025-03-03,S,2025-03-03,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical review,T2DR - Stoke and Staffordshire
-1783978,DM9,2025-01-10,S,2025-01-10,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1750656,DM9,2024-07-30,S,2024-07-30,8,,,,N,,N,,N,,,,N,,,N,0,,"split into 8 per day, ensure adequate fluid",T2DR - Stoke and Staffordshire
-1900271,DM9,2025-04-22,S,2025-04-08,4,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1784593,DM9,2025-03-18,S,2025-03-17,12,"Low mood, attempted to self harm",,,N,,N,,N,,,,N,,,Y,1,2025-03-18,Informed GP,T2DR - Stoke and Staffordshire
-1784740,DM9,2025-02-11,S,2025-02-11,12,Raised BG 16.6,,,N,,Y,2025-02-11,N,,,,N,,,N,0,,GP informed and arranging a review,T2DR - Stoke and Staffordshire
-1883093,DM9,2025-05-07,S,2025-05-07,12,Foot pain,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1653557,DM9,2024-05-15,S,2024-05-01,12,mental health breakdown,,,N,,N,,N,,,,N,,,Y,1,2024-05-15,signpost to GP and take a planned pause,T2DR - Stoke and Staffordshire
-1921698,DM9,2025-06-20,A,2025-06-20,,"hospital admission, may need a surgery",7,"hospital admission, may need a op for bulging disc",N,,N,,N,,,,N,,,Y,0,,"Follow medical advice, to offer a pause",T2DR - Stoke and Staffordshire
-1789201,DM9,2025-03-04,S,2025-03-04,12,Raised BP for the 2nd time,,,N,,N,,H,2025-03-04,,,N,,,N,2,2025-03-05,Inform GP.,T2DR - Stoke and Staffordshire
-1786311,DM9,2024-10-04,S,2024-10-04,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1712515,DM9,2024-09-19,S,2024-09-18,11,,,,N,,N,,N,,,,N,,,N,0,,Continue to seek medical review,T2DR - Stoke and Staffordshire
-1864222,DM9,2025-02-17,S,2025-02-17,12,Postural symptoms,,,N,,N,,N,,,,N,,,N,1,2025-02-17,Inform GP.,T2DR - Stoke and Staffordshire
-1753086,DM9,2024-07-25,S,2024-07-25,12,hairspray taste in mouth,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1751480,DM9,2024-07-16,S,2024-07-16,4,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, monitor, rest",T2DR - Stoke and Staffordshire
-1810832,DM9,2025-04-02,S,2025-04-01,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1806863,DM9,2024-12-11,S,2024-12-11,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1757447,DM9,2024-09-27,S,2024-09-27,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1877122,DM9,2025-07-30,S,2025-07-30,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1851791,DM9,2025-03-06,S,2025-03-06,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1770222,DM9,2025-01-30,S,2025-01-30,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1753082,DM9,2024-08-13,S,2024-08-10,15,,,,N,,N,,N,,,,N,,,N,0,,"Rest, hydration",T2DR - Stoke and Staffordshire
-1686296,DM9,2024-05-20,S,2024-05-20,12,Raised systolic BP,,,N,,N,,H,2024-05-20,,,N,,,N,3,2024-05-24,Contact GP,T2DR - Stoke and Staffordshire
-1779986,DM9,2025-07-04,S,2025-07-04,12,Struggling with mental health,,,N,,N,,N,,,,N,,,N,0,,"Seek MH support, share resources",T2DR - Stoke and Staffordshire
-1806847,DM9,2025-02-10,S,2025-02-10,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1908339,DM9,2025-06-18,S,2025-06-15,12,BG 2.9 mmol/L,,,N,,Y,2025-06-18,N,,,,N,,,N,0,,"Had juice and toast, see GP if concerns",T2DR - Stoke and Staffordshire
-1905485,DM9,2025-04-24,S,2025-04-24,4,,,,N,,N,,N,,,,N,,,N,0,,"Follow medical advice, seen by GP",T2DR - Stoke and Staffordshire
-1712525,DM9,2025-03-13,S,2025-03-13,12,Raised BP for the 2nd time,,,N,,N,,H,2025-03-13,,,N,,,N,2,2025-03-14,Inform GP.,T2DR - Stoke and Staffordshire
-1793803,DM9,2025-07-02,S,2025-06-23,12,Had carpal tunnel and trigger thumb surgery,,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1784740,DM9,2025-01-26,S,2025-01-26,15,,,,N,,Y,2025-01-26,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1899325,DM9,2025-04-08,S,2025-04-08,12,"increased urination, low energy",,,N,,N,,N,,,,N,,,N,0,,"Monitor, seek medical review",T2DR - Stoke and Staffordshire
-1789208,DM9,2025-01-20,S,2025-01-20,12,Had operation on his shoulder,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1738307,DM9,2024-08-13,S,2024-08-13,8,,,,N,,N,,N,,,,N,,,N,0,,"Reduce fibre intake, ensure to have enough fluid",T2DR - Stoke and Staffordshire
-1806847,DM9,2025-06-30,A,2025-06-30,,,7,"lung infection, aneurysm, swollen Heart, arteries",N,,N,,N,,,,N,,,N,0,,"waiting echo and MRI, follow medical advice",T2DR - Stoke and Staffordshire
-1757468,DM9,2024-08-26,S,2024-08-26,12,mild bloating,,,N,,N,,N,,,,N,,,N,0,,"Monitor, reduce artificial sweetener",T2DR - Stoke and Staffordshire
-1784740,DM9,2024-08-29,S,2024-08-29,12,"dizzy, diarrhoea, sweat, headache",,,N,,N,,N,,,,N,,,N,0,,"hydration, try fibre, split into smaller amount",T2DR - Stoke and Staffordshire
-1743355,DM9,2024-06-20,S,2024-06-19,3,,,,N,,N,,N,,,,N,,,N,0,,"coach to check hydration, caffeine intake",T2DR - Stoke and Staffordshire
-1653521,DM9,2024-05-02,S,2024-05-01,15,,,,N,,N,,N,,,,N,,,N,0,,patient contact GP,T2DR - Stoke and Staffordshire
-1924304,DM9,2025-05-04,S,2025-05-04,13,,,,N,,N,,N,,,,N,,,N,0,,"adjust fibre, monitor, see GP if needed",T2DR - Stoke and Staffordshire
-1907128,DM9,2025-04-07,S,2025-04-07,1,,,,Y,2025-04-08,N,,N,,,,N,,,N,0,,See GP for stronger fibre/laxative,T2DR - Stoke and Staffordshire
-1789169,DM9,2024-12-19,S,2024-12-19,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1810832,DM9,2024-11-01,S,2024-11-01,7,,,,N,,N,,N,,,,N,,,N,0,,"dehydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1753086,DM9,2024-09-20,S,2024-09-19,1,,,,Y,2024-09-20,N,,N,,,,N,,,N,0,,"hydration, fibre and monitor",T2DR - Stoke and Staffordshire
-1793803,DM9,2024-10-15,S,2024-10-15,4,,,,N,,N,,N,,,,N,,,N,0,,regular shake consumption and monitor,T2DR - Stoke and Staffordshire
-1784593,DM9,2025-04-07,S,2025-04-07,12,Vitamin D deficiency,,,N,,N,,N,,,,N,,,N,0,,Follow GP advice,T2DR - Stoke and Staffordshire
-1753108,DM9,2024-07-10,S,2024-07-09,3,,,,N,,N,,N,,,,N,,,N,0,,"Take pain killer, ensure to have enough fluid",T2DR - Stoke and Staffordshire
-1793810,DM9,2025-03-03,S,2025-03-03,12,tiredness,,,N,,N,,N,,,,N,,,N,0,,Monitor and seek medical review if needed.,T2DR - Stoke and Staffordshire
-1734869,DM9,2024-08-20,S,2024-08-20,3,,,,N,,N,,N,,,,N,,,N,0,,"Monitor BG, BP, consider reducing sweetener",T2DR - Stoke and Staffordshire
-1816157,DM9,2024-10-17,S,2024-10-17,15,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if needed",T2DR - Stoke and Staffordshire
-1921779,DM9,2025-07-09,S,2025-07-08,12,Nausea and diarrhoea,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1851791,DM9,2025-03-10,S,2025-03-10,14,,,,N,,N,,N,,,,N,,,N,0,,See GP.,T2DR - Stoke and Staffordshire
-1877122,DM9,2025-03-10,S,2025-03-10,12,abdominal pain,,,N,,N,,N,,,,Y,2025-03-10,,N,0,,"Stop TDR as unable to tolerate, see GP",T2DR - Stoke and Staffordshire
-1685441,DM9,2024-07-23,S,2024-07-22,12,Low blood pressure,,,N,,N,,L,2024-07-23,,,N,,,N,1,2024-07-23,Contacted GP,T2DR - Stoke and Staffordshire
-1888653,DM9,2025-04-07,A,2025-03-29,,,7,Hospitalised for high calcium levels,N,,N,,N,,,,N,,,N,0,,"given fluids, parathyroid gland removal surgery",T2DR - Stoke and Staffordshire
-1694114,DM9,2025-02-07,S,2025-02-07,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1810832,DM9,2025-01-16,S,2025-01-16,12,A&E due to sprained ankle,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1907260,DM9,2025-06-11,S,2025-06-10,12,Bleeding gum,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1750656,DM9,2024-11-28,S,2024-11-27,12,Chronic tiredness,,,N,,N,,N,,,,N,,,N,0,,"Await blood result, increase carb intake",T2DR - Stoke and Staffordshire
-1779986,DM9,2024-09-17,S,2024-09-16,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
-1750656,DM9,2024-08-07,S,2024-08-07,8,,,,N,,N,,N,,,,N,,,N,0,,Try soup,T2DR - Stoke and Staffordshire
-1742496,DM9,2024-08-30,S,2024-08-26,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1727481,DM9,2024-07-02,S,2024-07-02,4,,,,N,,N,,N,,,,N,,,N,0,,move slowly when getting up from sitting or lying,T2DR - Stoke and Staffordshire
-1810862,DM9,2024-11-05,S,2024-11-05,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
-1762372,DM9,2024-10-03,S,2024-10-03,12,Raised systolic and diastolic BP,,,N,,N,,H,2024-10-03,,,N,,,N,0,,Monitor,T2DR - Stoke and Staffordshire
-1924304,DM9,2025-04-29,S,2025-04-29,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1789201,DM9,2025-06-10,S,2025-06-10,12,raised blood pressure,,,N,,N,,H,2025-06-10,,,N,,,N,2,2025-06-10,Inform GP for the 2nd time.,T2DR - Stoke and Staffordshire
-1712550,DM9,2025-04-08,S,2025-04-08,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1648538,DM9,2024-08-19,S,2024-08-17,15,,,,N,,N,,N,,,,N,,,Y,0,,"Follow medical advice, on antibiotics",T2DR - Stoke and Staffordshire
-1877228,DM9,2025-03-13,S,2025-03-13,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, fibre, seek medical review if needed.",T2DR - Stoke and Staffordshire
-1806866,DM9,2025-01-23,A,2025-01-23,,,7,hospital admission due to chest pain,N,,N,,N,,,,Y,2025-01-23,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1855389,DM9,2025-02-12,S,2025-02-12,12,"Diarrhoea, headache, palpitation",,,N,,N,,N,,,,Y,2025-02-12,,Y,0,,"Hydration, split TDR, monitor BG, stop TDR",T2DR - Stoke and Staffordshire
-1711580,DM9,2024-11-11,S,2024-11-09,12,Fracture,,,N,,N,,N,,,,N,,,N,0,,See fracture clinic,T2DR - Stoke and Staffordshire
-1712515,DM9,2024-09-02,S,2024-08-30,12,raised blood glucose,,,N,,Y,2024-09-02,N,,,,N,,,N,0,,"under GP care, await for blood test, on Gliclazide",T2DR - Stoke and Staffordshire
-1848671,DM9,2025-03-13,S,2025-03-13,12,Started talking gibberish / couldn't get her words,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
-1753102,DM9,2025-02-10,S,2025-02-10,12,Diagnosed with stage 1 diabetic retinopathy.,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1762382,DM9,2024-12-13,S,2024-12-13,12,Had total knee replacement,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1771136,DM9,2024-08-15,S,2024-08-15,9,,,,N,,N,,N,,,,N,,,N,0,,See GP because this seems to be caused by tablets,T2DR - Stoke and Staffordshire
-1851801,DM9,2025-08-07,A,2025-08-02,,,7,A and & due to pain in upper back / shoulder,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1734869,DM9,2025-05-19,S,2025-05-19,12,"Removed the whole lobe, non-malignant",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-07-25,S,2025-07-24,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1784740,DM9,2025-01-15,S,2025-01-15,12,raised blood glucose,,,N,,Y,2025-01-15,N,,,,N,,,N,1,2025-01-16,Inform GP.,T2DR - Stoke and Staffordshire
-1751437,DM9,2024-09-25,S,2024-09-25,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
-1755572,DM9,2024-09-23,S,2024-09-20,12,Low diastolic BP,,,N,,N,,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1905485,DM9,2025-07-22,S,2025-07-21,12,Food poisoning,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1792875,DM9,2024-12-20,S,2024-12-20,12,"Dizziness, lightheaded and numbness",,,N,,N,,L,2024-12-20,,,N,,,N,1,2024-12-20,Informed GP,T2DR - Stoke and Staffordshire
-1916964,DM9,2025-04-09,S,2025-04-09,8,"adjust fibre if needed, monitor, seek medical revi",,,N,,N,,N,,,,N,,,N,0,,"adjust fibre, monitor, see GP if needed",T2DR - Stoke and Staffordshire
-1761541,DM9,2024-08-06,S,2024-08-02,12,head ache and change of bowel habits,,,N,,N,,N,,,,N,,,N,0,,hydration,T2DR - Stoke and Staffordshire
-1856143,DM9,2025-03-31,S,2025-03-28,1,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1686296,DM9,2024-12-03,S,2024-12-03,12,Raised BP for the 2nd time,,,N,,N,,H,2024-12-03,,,N,,,N,3,2024-12-03,Inform GP,T2DR - Stoke and Staffordshire
-1727481,DM9,2024-07-30,S,2024-07-30,4,,,,N,,N,,N,,,,N,,,N,0,,Ensured hydration and monitor BP and BG,T2DR - Stoke and Staffordshire
-1822685,DM9,2024-12-05,S,2024-12-05,7,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
-1587550,DM9,2023-11-02,S,2023-10-28,8,,,,N,,N,,N,,,,Y,2023-11-02,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1921779,DM9,2025-07-24,S,2025-07-23,8,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
-1719408,DM9,2024-07-10,S,2024-07-10,3,,,,N,,N,,N,,,,N,,,N,0,,"Take pain killer, ensure to have enough fluid",T2DR - Stoke and Staffordshire
-1962029,DM9,2025-08-26,S,2025-08-25,12,BG 1.6 mmol/L,,,N,,N,,N,,,,N,,,Y,1,2025-08-26,Inform GP.,T2DR - Stoke and Staffordshire
-1968210,DM9,2025-08-27,S,2025-08-26,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1802739,DM9,2024-11-06,S,2024-11-05,12,"Pain in back of head, legs, sweaty, can't focus",,,N,,N,,N,,,,Y,2024-11-06,,Y,0,,See GP ASAP and stop TDR,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-02-24,S,2025-02-24,12,Low BP,,,N,,N,,L,2025-02-24,,,N,,,N,4,2025-02-25,Inform GP.,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-02-26,A,2025-02-22,,,7,"back pain resulted in admission, cause unknown",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-05-16,S,2025-05-16,12,"Raised BG 16,9 for the 1st time",,,N,,N,,H,2025-05-16,,,N,,,N,0,,Monitor and repeat,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-06-04,S,2025-06-04,12,Raised BG level,,,N,,Y,2025-06-04,N,,,,N,,,N,4,2025-06-05,Inform GP.,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-07-14,S,2025-07-10,12,Raised BG,,,N,,Y,2025-07-14,N,,,,N,,,N,4,2025-07-14,Inform GP.,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-08-07,S,2025-08-07,12,Low BP and low BG,,,N,,Y,2025-08-15,L,2025-08-07,,,N,,,Y,4,2025-08-07,Inform GP.,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-08-26,S,2025-08-22,12,Low BG and low BP,,,N,,Y,2025-08-29,L,2025-08-26,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1802739,DM9,2025-08-15,S,2025-08-14,12,Low BG,,,N,,Y,2025-08-15,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1882197,DM9,2025-09-02,S,2025-09-01,12,Anaemia,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1859549,DM9,2025-09-02,S,2025-09-01,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1817335,DM9,2024-10-17,S,2024-10-17,8,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
-1817335,DM9,2024-10-22,S,2024-10-22,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
-1817335,DM9,2024-11-11,S,2024-11-07,12,possible appendicitis or ruptured cysts,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1817335,DM9,2024-11-27,S,2024-11-26,12,Hospitalisation due to flare-up PCOS,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1923551,DM9,2025-09-03,S,2025-09-02,12,Migraine,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1810832,DM9,2025-09-03,S,2025-09-02,12,Anxiety attack - work related,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1817335,DM9,2025-09-03,S,2025-09-02,12,Raised blood glucose > 20 mmol/L,,,N,,Y,2025-09-02,N,,,,N,,,N,1,2025-09-03,Inform GP.,T2DR - Stoke and Staffordshire
-1987824,DM9,2025-09-04,S,2025-09-03,8,,,,N,,N,,N,,,,N,,,N,0,,"monitor, consider splitting TDR",T2DR - Stoke and Staffordshire
-1866415,DM9,2025-09-03,S,2025-09-03,12,"hair loss, tired",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1989981,DM9,2025-09-02,S,2025-09-01,3,Hydration,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1848024,DM9,2025-09-08,S,2025-09-08,12,Fractured jaw,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1806866,DM9,2025-09-08,A,2025-09-08,,,7,"Had a bypass surgery in India in April 2025, disclosed this information on 08,09,2025",N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1908339,DM9,2025-09-08,S,2025-09-08,12,osteoporosis and a spinal scoliosis.,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1968210,DM9,2025-09-10,S,2025-09-08,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1984638,DM9,2025-09-10,A,2025-09-09,,,7,hospitalisation due to  kidney stone,N,,N,,N,,,,Y,2025-09-09,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1949826,DM9,2025-09-12,S,2025-09-11,12,acute torticollis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1945848,DM9,2025-09-12,S,2025-09-11,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1848019,DM9,2025-09-15,S,2025-09-13,12,Low BG 1.3 mmol/L,,,N,,Y,2025-09-15,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1904271,DM9,2025-08-04,S,2025-08-04,12,new diagnosis of arthritis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1806847,DM9,2025-09-19,A,2025-09-09,,,7,A and E due to bad asthma,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-09-24,S,2025-09-23,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1967287,DM9,2025-09-26,S,2025-09-25,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1921720,DM9,2025-04-22,S,2025-04-17,7,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
-1921720,DM9,2025-09-03,S,2025-09-03,12,"Weakness, lightheaded",,,N,,N,,L,2025-09-03,,,N,,,N,2,2025-09-03,Inform GP.,T2DR - Stoke and Staffordshire
-1887296,DM9,2025-09-29,S,2025-09-28,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1921720,DM9,2025-10-01,S,2025-10-01,12,Low BP,,,N,,N,,L,2025-10-01,,,N,,,N,2,2025-10-01,Inform GP.,T2DR - Stoke and Staffordshire
-1945848,DM9,2025-10-06,S,2025-09-26,12,Hysterectomy,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1967287,DM9,2025-10-07,S,2025-10-06,8,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1987824,DM9,2025-10-09,S,2025-10-09,8,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1994833,DM9,2025-10-13,S,2025-10-13,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1970244,DM9,2025-09-25,S,2025-09-24,12,Raised BP,,,N,,N,,H,2025-09-25,,,N,,,N,1,2025-09-25,Inform GP.,T2DR - Stoke and Staffordshire
-1898509,DM9,2025-10-15,S,2025-10-15,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2004742,DM9,2025-10-16,S,2025-10-15,12,Low BP,,,N,,N,,L,2025-10-15,,,N,,,N,0,,Monitor,T2DR - Stoke and Staffordshire
-1863605,DM9,2025-10-31,S,2025-10-30,12,Low BP,,,N,,N,,L,2025-10-30,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1945848,DM9,2025-11-03,S,2025-11-03,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1984678,DM9,2025-11-03,S,2025-10-31,12,unexpected menstrual bleeding,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1873462,DM9,2025-02-07,S,2025-02-07,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, split TDR into 8 and see GP if needed",T2DR - Stoke and Staffordshire
-1873462,DM9,2025-03-04,A,2025-03-04,,,7,"ery low BG ""Lo"" meaning below 0.5 mmol/L.",N,,Y,2025-03-04,N,,,,Y,2025-03-04,,Y,2,2025-03-04,Same day GP contact.,T2DR - Stoke and Staffordshire
-1873462,DM9,2025-11-04,S,2025-11-03,12,Low BP,,,N,,N,,L,2025-11-03,,,N,,,N,2,2025-11-04,Inform GP.,T2DR - Stoke and Staffordshire
-1994825,DM9,2025-11-05,S,2025-11-04,12,Raised BG,,,N,,Y,2025-11-04,N,,,,N,,,N,1,2025-11-05,Inform GP.,T2DR - Stoke and Staffordshire
-1856143,DM9,2025-11-06,S,2025-11-05,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1888197,DM9,2025-11-10,S,2025-11-09,12,Raised BP,,,N,,N,,H,2025-11-09,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-1994825,DM9,2025-11-12,S,2025-11-12,12,Raised BG,,,N,,Y,2025-11-12,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
-2004742,DM9,2025-11-12,S,2025-11-11,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
-1992609,DM9,2025-11-14,S,2025-11-13,12,vertigo,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-11-19,S,2025-11-14,15,,,,N,,N,,N,,,,N,,,N,0,,follow dr advise,T2DR - Stoke and Staffordshire
-1992609,DM9,2025-11-27,S,2025-11-24,12,Mouth and tongue swelling,,,N,,N,,N,,,,Y,2025-11-27,,Y,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1992609,DM9,2025-11-27,A,2025-11-23,,,7,Member reported feeling like self-harming,N,,N,,N,,,,Y,2025-11-27,,Y,0,,Coach offered to contact the emergency service but the member declined. Further signposting shared.,T2DR - Stoke and Staffordshire
-1992609,DM9,2025-11-27,S,2025-11-24,12,vertigo and blackout,,,N,,N,,N,,,,Y,2025-11-27,,Y,0,,Seek medical advice,T2DR - Stoke and Staffordshire
-1840730,DM9,2025-12-03,S,2025-11-26,8,,,,N,,N,,N,,,,N,,,N,0,,Already feeling better,T2DR - Stoke and Staffordshire
-1887296,DM9,2025-12-10,S,2025-12-10,15,,,,N,,N,,N,,,,N,,,N,0,,Already finished course of antibiotics,T2DR - Stoke and Staffordshire
-1888210,DM9,2025-12-15,S,2025-12-08,12,Food poisoning,,,N,,N,,N,,,,N,,,N,0,,Better now,T2DR - Stoke and Staffordshire
-1878022,DM9,2025-11-21,S,2025-11-20,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2042339,DM9,2025-12-22,S,2025-12-20,3,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
-1945835,DM9,2025-10-07,S,2025-10-06,12,raised blood pressure,,,N,,N,,H,2025-10-07,,,N,,,N,2,2025-10-07,Inform GP.,T2DR - Stoke and Staffordshire
-1947252,DM9,2026-01-05,S,2025-12-24,8,,,,Y,2026-01-05,N,,N,,,,N,,,N,0,,Seeing GP in a few days,T2DR - Stoke and Staffordshire
-1844490,DM9,2026-01-06,A,2025-12-24,,,7,"burst appendix member in hospital 15th-24th December, currently recovering at home",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2048473,DM9,2026-01-07,S,2026-01-06,7,,,,N,,N,,N,,,,N,,,N,0,,Try split TDR,T2DR - Stoke and Staffordshire
-2048473,DM9,2026-01-09,S,2026-01-09,12,Diarrhoea and being sick,,,N,,N,,N,,,,N,,,N,0,,"splitting TDR, check the intake of artificial sweetener, hydrate, see medical review if continues",T2DR - Stoke and Staffordshire
-1970244,DM9,2026-01-09,S,2026-01-09,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1905485,DM9,2026-01-13,S,2026-01-12,9,,,,N,,N,,N,,,,N,,,N,0,,"splitting TDR, seek medical review if needed",T2DR - Stoke and Staffordshire
-2030624,DM9,2026-01-16,S,2026-01-14,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, and ensure fibre intake",T2DR - Stoke and Staffordshire
-1945835,DM9,2025-12-29,S,2025-12-23,12,Elevated BP,,,N,,N,,H,2025-12-23,,,N,,,N,2,2025-12-29,Notified GP,T2DR - Stoke and Staffordshire
-2042323,DM9,2026-01-07,S,2026-01-05,12,Low BP,,,N,,N,,L,2026-01-05,,,N,,,N,1,2026-01-07,Inform GP,T2DR - Stoke and Staffordshire
-2030624,DM9,2026-01-21,S,2026-01-21,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice since member taking sufficient fluid and fibre,T2DR - Stoke and Staffordshire
-2025459,DM9,2026-01-23,S,2026-01-22,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice since member taking sufficient fluid and fibre,T2DR - Stoke and Staffordshire
-2047628,DM9,2026-01-29,S,2026-01-28,12,"headache, nausea and vomiting",,,N,,N,,N,,,,N,,,N,0,,"assure hydration, consider split TDR, seek medical review if persists or worsen",T2DR - Stoke and Staffordshire
-2048445,DM9,2026-02-02,A,2026-01-30,,,7,"Hospitalisation due to pneumonia, on antibiotics and steroid",N,,N,,N,,,,Y,2026-02-02,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2022506,DM9,2026-02-02,S,2026-01-30,3,,,,N,,N,,N,,,,N,,,N,0,,"good hydration, seek medical review if needed",T2DR - Stoke and Staffordshire
-2025450,DM9,2026-02-03,S,2026-02-02,9,,,,N,,N,,N,,,,N,,,N,0,,"has GP appt 04 FEB, follow medical advice",T2DR - Stoke and Staffordshire
-2062288,DM9,2026-02-03,S,2026-02-02,7,,,,N,,N,,N,,,,N,,,N,0,,"Consider splitting TDR, monitor",T2DR - Stoke and Staffordshire
-2030624,DM9,2026-02-04,S,2026-02-03,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, fibre if persist, seek medical review",T2DR - Stoke and Staffordshire
-2052769,DM9,2026-02-04,S,2026-02-04,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-1921672,DM9,2026-02-09,A,2026-01-21,,,7,Back operation,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2033137,DM9,2026-02-23,S,2026-02-22,12,Low BP,,,N,,N,,L,2026-02-23,,,N,,,N,1,2026-02-23,To inform GP,T2DR - Stoke and Staffordshire
-2052769,DM9,2026-02-23,S,2026-02-23,1,,,,N,,N,,N,,,,N,,,N,0,,"Ensure a good hydration, encouraged to take fibre.",T2DR - Stoke and Staffordshire
-2078962,DM9,2026-02-26,S,2026-02-26,13,,,,Y,2026-02-26,N,,N,,,,N,,,N,0,,"Try soup, split TDR, ensure hydration",T2DR - Stoke and Staffordshire
-2014008,DM9,2026-03-03,S,2026-03-02,13,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
-2053487,DM9,2026-03-09,S,2026-03-08,12,Low BP,,,N,,N,,L,2026-03-08,,,N,,,N,1,2026-03-09,Inform GP,T2DR - Stoke and Staffordshire
-2077770,DM9,2026-03-10,S,2026-03-09,12,"Low mood, anxiety and headaches",,,N,,N,,N,,,,N,,,N,0,,Seek GP review and contact emergency if needed,T2DR - Stoke and Staffordshire
-1902591,DM9,2026-03-12,A,2026-03-12,,,7,A and E due to chest pain,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2080766,DM9,2026-03-13,S,2026-03-13,1,,,,N,,N,,N,,,,N,,,N,0,,Increase fibre intake,T2DR - Stoke and Staffordshire
-1925532,DM9,2026-03-16,A,2026-03-14,,,7,"Walk in hospital due to back issue, same day discharge",N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2078962,DM9,2026-03-18,S,2026-03-17,3,,,,N,,N,,N,,,,N,,,N,0,,Hydration and seek medical review if worsens or continues,T2DR - Stoke and Staffordshire
-1989981,DM9,2026-03-19,A,2026-03-08,,,7,Sever constipation resulted in A and E,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2003361,DM9,2026-03-31,S,2026-03-27,12,"Had haemorrhoids after gave birth to son, prolapse",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2003361,DM9,2026-03-31,S,2026-03-31,12,Osteoarthritis in both hips,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2071132,DM9,2026-04-01,S,2026-03-31,12,diarrhoea and headache,,,N,,N,,N,,,,N,,,N,0,,"hydration, consider split TDR",T2DR - Stoke and Staffordshire
-1917887,DM9,2025-04-08,S,2025-04-08,12,"ankle is really sore, stiff",,,N,,N,,N,,,,N,,,N,0,,Seek medical review,T2DR - Stoke and Staffordshire
-2014008,DM9,2026-03-20,S,2026-03-20,4,,,,N,,N,,N,,,,N,,,Y,0,,Monitor,T2DR - Stoke and Staffordshire
-2062288,DM9,2026-04-02,A,2026-03-31,,,7,viral gastroenteritis,N,,N,,N,,,,N,,,N,0,,signposted to GP,T2DR - Stoke and Staffordshire
-2082796,DM9,2026-04-23,S,2026-04-23,12,Hospital Admission Due to Analgesic Withdrawal,,,N,,N,,N,,,,N,,,Y,0,,NA,T2DR - Stoke and Staffordshire
-2106041,DM9,2026-05-28,S,2026-05-28,15,,,,N,,N,,N,,,,N,,,Y,0,,Nil,T2DR - Stoke and Staffordshire
-2001075,DM9,2026-03-11,S,2026-03-10,12,Low BP,,,N,,N,,L,2026-03-11,,,N,,,N,0,,Inform GP,T2DR - Stoke and Staffordshire
-2071728,DM9,2026-04-22,S,2026-04-22,12,Restless Legs Syndrome,,,N,,N,,N,,,,N,,,Y,0,,Supplemented with magnesium,T2DR - Stoke and Staffordshire
-2086955,DM9,2026-05-20,S,2026-05-20,8,,,,Y,2026-05-20,N,,N,,,,N,,,Y,0,,Advice provided,T2DR - Stoke and Staffordshire
-1958391,DM9,2026-06-15,S,2026-06-14,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
-2001075,DM9,2026-06-23,S,2026-05-29,12,Hypotension,,,Y,2026-06-01,N,,L,2026-05-27,,,N,,,Y,1,2026-05-29,Informed GP,T2DR - Stoke and Staffordshire
-2022506,DM9,2026-06-08,S,2026-06-05,12,Hypotension,,,Y,2026-06-08,N,,L,2026-06-08,,,N,,,Y,1,2026-06-08,Notification sent to GP,T2DR - Stoke and Staffordshire
-2086955,DM9,2026-06-05,S,2026-05-31,12,Hypertension,,,Y,2026-06-05,N,,H,2026-05-31,,,N,,,Y,1,2026-06-05,GP notified,T2DR - Stoke and Staffordshire
-2024932,DM9,2026-06-29,S,2026-06-10,12,Knee operation,,,Y,2026-06-29,N,,N,,,,N,,,Y,0,,Following medical advice,T2DR - Stoke and Staffordshire
-2106771,DM9,2026-06-05,S,2026-06-02,12,Hypertension,,,Y,2026-06-05,N,,H,2026-06-02,,,N,,,Y,2,2026-06-05,GP notified,T2DR - Stoke and Staffordshire
-2106771,DM9,2026-06-30,S,2026-06-01,12,Hyperglycemia,,,Y,2026-06-30,Y,2026-06-01,N,,,,N,,,Y,2,2026-06-30,Notification to GP,T2DR - Stoke and Staffordshire
-1917887,DM9,2025-06-19,S,2025-06-19,12,"scheduled shoulder surgery, day admission",,,N,,N,,N,,,,N,,,N,0,,"one day of food, med team happy to cont shakes",T2DR - Stoke and Staffordshire
-1994833,DM9,2026-07-20,S,2026-07-20,12,Colitis flare-up,,,N,,N,,N,,,,N,,,Y,0,,GP aware and restarted steroids,T2DR - Stoke and Staffordshire
-2127153,DM9,2026-07-30,S,2026-07-30,4,,,,Y,2026-07-30,N,,N,,,,N,,,Y,0,,Review with GP,T2DR - Stoke and Staffordshire
-2147952,DM9,2026-08-18,A,2026-07-31,,,7,Gout,Y,2026-08-18,N,,N,,,,N,,,Y,0,,"No changes to programme, advice to increase fluids.",T2DR - Stoke and Staffordshire
-1917887,DM9,2025-12-15,S,2025-12-15,12,Watch indicated risk of atrial fibrillation,,,N,,N,,N,,,,N,,,N,0,,Review with doctor,T2DR - Stoke and Staffordshire
-2078969,DM9,2026-06-09,S,2026-06-04,12,Injury- was injured from child,,,Y,2026-06-09,N,,N,,,,Y,2026-06-04,,Y,0,,Attended A+E,T2DR - Stoke and Staffordshire
-2125386,DM9,2026-06-30,S,2026-06-30,12,Low HR,,,Y,2026-06-30,N,,N,,,,N,,,Y,0,,signposted to GP,T2DR - Stoke and Staffordshire
-1603658,DM9,2024-01-12,S,2024-01-12,8,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-1603658,DM9,2024-01-19,S,2023-12-01,8,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-1603658,DM9,2024-02-09,S,2024-02-09,3,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-1603658,DM9,2024-04-05,S,2024-04-05,8,,,,N,,N,,N,,,,N,,,N,0,,Alternating constipation and diarrhoea - advised to monitor and seek medical advice if concerned.,T2DR - Stoke and Staffordshire
-1603658,DM9,2024-05-31,S,2024-05-12,1,,,,N,,N,,N,,,,N,,,N,0,,PT advised to ensure adequate water consumption as they thought that may be the cause as no longer on TDR,T2DR - Stoke and Staffordshire
-1625088,DM9,2024-02-02,S,2024-01-29,1,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-1625088,DM9,2024-02-09,S,2024-01-29,1,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-1625088,DM9,2024-03-01,S,2024-01-12,12,Increase in sleep apnoea episodes,,,N,,N,,N,,,,N,,,N,0,,"PT already visiting sleep clinic in hospital to investigate. PT is feeling well and not tired, just noticed change on phone app. Being reviewed by doctor soon.",T2DR - Stoke and Staffordshire
-1625088,DM9,2024-04-05,S,2024-04-05,1,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common with food reintroduction but to continue monitoring.,T2DR - Stoke and Staffordshire
-1636758,DM9,2024-03-19,S,2024-03-19,4,,,,N,,N,,N,,,,N,,,N,0,,Has been having the odd dizzy spell. Advised to call 111 if seriously unwell.,T2DR - Stoke and Staffordshire
-1641162,DM9,2024-01-30,S,2024-01-23,4,,,,N,,N,,N,,,,N,,,N,0,,"Continued dizziness when bending down, and fluctuation between constipation and diarrhoea. Advised to refer to side effects sheet and call 111 if feeling seriously unwell",T2DR - Stoke and Staffordshire
-1641162,DM9,2024-02-20,S,2024-02-20,4,,,,N,,N,,N,,,,N,,,N,0,,"Told to monitor his situation, tell others where he's going/what he's doing, call 111 if feeling seriously unwell",T2DR - Stoke and Staffordshire
-1641162,DM9,2024-03-05,S,2024-01-16,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to call 111 if feeling seriously unwell and refer to the side effects info sheet provided.,T2DR - Stoke and Staffordshire
-1641162,DM9,2024-09-17,S,2024-09-16,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1641162,DM9,2024-09-24,S,2024-09-23,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1641162,DM9,2024-10-01,S,2024-09-27,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-02-13,S,2024-02-10,4,,,,N,,N,,N,,,,N,,,N,0,,Emailed side effects info sheet and told to call 111 if feeling seriously unwell. Suggested to keep TDR meals as regular as possible to keep blood glucose levels more stable throughout the day.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-02-20,S,2024-02-20,4,,,,N,,N,,N,,,,N,,,N,0,,"Reiterated to call 111 if feeling seriously unwell, and reference the side effect info sheet provided.",T2DR - Stoke and Staffordshire
-1642120,DM9,2024-03-19,S,2024-03-19,4,,,,N,,N,,N,,,,N,,,N,0,,Continued to have dizzy spells doing day-to-day activities. Has also started lifting weights at the gym. Have advised against this in TDR phase. Told to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-09-03,S,2024-09-03,4,,,,N,,N,,N,,,,N,,,N,0,,Daily bouts of minor dizziness and dry mouth. Advised to monitor and call 111 if symptoms worsen.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-09-10,S,2024-09-08,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-09-17,S,2024-09-16,5,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1642120,DM9,2024-10-15,S,2024-10-08,12,Back pain,,,N,,N,,N,,,,N,,,N,0,,Back injury. PT is taking strong painkillers. Advised to monitor and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1642120,DM9,2025-01-14,S,2025-01-14,14,,,,N,,N,,N,,,,N,,,N,0,,PT experienced severe itching/thrush alongside elevated glucose readings. Symptoms have since cleared up. Advised to monitor condition and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1643071,DM9,2024-03-01,S,2024-03-01,13,,,,N,,N,,N,,,,N,,,N,0,,Stomach ache - Advised to see doctor if problem persists,T2DR - Stoke and Staffordshire
-1646941,DM9,2024-03-26,S,2024-03-26,1,,,,N,,N,,N,,,,N,,,N,0,,PT has been taking Senokot alongside Altrafibre for constipation. Bowel habits have now returned to normal.,T2DR - Stoke and Staffordshire
-1651491,DM9,2024-04-11,S,2024-04-11,8,,,,N,,N,,N,,,,N,,,N,0,,Acute diarrhoea daily since starting TDR. Advised to take Altrafibre twice per day and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1656421,DM9,2024-04-05,S,2024-04-05,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor if concerned,T2DR - Stoke and Staffordshire
-1656691,DM9,2024-04-05,S,2024-04-05,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to ensure regular consumption of fibre supplement and seek medical attention if problem persists,T2DR - Stoke and Staffordshire
-1656691,DM9,2024-04-12,S,2024-04-12,12,Pain in both sides,,,N,,N,,N,,,,N,,,N,0,,Pain in sides - thought due to known gall stones - PT will see GP. Also constipation - advised this is common side effect but to speak to GP if concerned.,T2DR - Stoke and Staffordshire
-1656691,DM9,2024-04-26,S,2024-04-26,1,,,,N,,N,,N,,,,N,,,N,0,,Fairly severe constipation - PT has already had advice from doctor,T2DR - Stoke and Staffordshire
-1656704,DM9,2024-09-12,S,2024-09-12,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1656704,DM9,2024-09-19,S,2024-09-19,9,,,,N,,N,,N,,,,N,,,N,0,,Experiencing bloating and flatulence. Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1656704,DM9,2024-11-21,S,2024-11-21,15,,,,N,,N,,N,,,,N,,,N,0,,PT is experiencing ongoing sciatica pain and gout. Advised her to contact GP or call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1656704,DM9,2024-12-19,S,2024-12-19,8,,,,N,,N,,N,,,,N,,,N,0,,PT thinks she may have IBS. I suggested some lifestyle/dietary changes. Advised PT to monitor condition and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1656704,DM9,2025-01-16,S,2025-01-16,15,,,,N,,N,,N,,,,N,,,N,0,,PT has had norovirus. Advised to call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1657864,DM9,2024-02-28,S,2024-02-20,3,,,,N,,N,,N,,,,N,,,N,0,,Recommended reading side effects info sheet and to call 111 if feeling seriously unwell,T2DR - Stoke and Staffordshire
-1657864,DM9,2024-04-10,S,2024-04-10,12,n/a,,,N,,N,,N,,,,N,,,N,0,,Isolated incident of palpitations. Returned to normal fairly quickly. Advised to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1657864,DM9,2024-09-11,S,2024-09-11,15,,,,N,,N,,N,,,,N,,,N,0,,Chronic sinusitis and ear infection. Advised to continue GP treatment and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1657864,DM9,2024-12-04,S,2024-11-20,12,Thrush,,,N,,N,,N,,,,N,,,N,0,,"Glucose reading increased to 23 mmol, but has since come back down. Developed thrush - medication has cleared it up. Advised to monitor symptoms and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1658888,DM9,2024-05-16,S,2024-05-12,1,,,,N,,N,,N,,,,N,,,N,0,,Have advised to monitor and call 111 if seriously unwell.,T2DR - Stoke and Staffordshire
-1658909,DM9,2024-03-13,S,2024-03-10,3,,,,N,,N,,N,,,,N,,,N,0,,Recommended reading the side effects info sheet and calling 111 if feeling seriously unwell,T2DR - Stoke and Staffordshire
-1658909,DM9,2024-04-10,S,2024-04-09,4,,,,N,,N,,N,,,,N,,,N,0,,Dizziness lasting for a few hours. Advised her to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1658909,DM9,2024-09-25,S,2024-09-24,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1658909,DM9,2024-10-02,S,2024-10-02,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1658909,DM9,2025-01-08,S,2025-01-08,12,Blood Glucose,,,N,,N,,N,,,,N,,,N,0,,Recent glucose measurement taken by GP was over 25. Advised to monitor and call 111 or GP if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1658940,DM9,2024-04-04,S,2024-04-04,12,Raised BP,,,N,,N,,H,2024-04-04,,,N,,,N,0,,Advised that BP is raised and may need to see doctor if not reduced next week,T2DR - Stoke and Staffordshire
-1658940,DM9,2024-05-09,S,2024-05-09,7,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor is concerned. Also experiencing bleeding gums.,T2DR - Stoke and Staffordshire
-1658940,DM9,2024-06-06,S,2024-06-06,1,,,,N,,N,,N,,,,N,,,N,0,,Advised this is common side effect but see doctor if concerned,T2DR - Stoke and Staffordshire
-1658940,DM9,2024-06-27,S,2024-06-27,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to speak to pharmacist,T2DR - Stoke and Staffordshire
-1668739,DM9,2024-03-11,S,2024-03-06,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor if problem persists,T2DR - Stoke and Staffordshire
-1668739,DM9,2024-03-18,S,2024-03-18,8,,,,N,,N,,N,,,,N,,,N,0,,Diarrhoea has persisted since start of TDR but starting to improve - advised to see doctor if concerned.,T2DR - Stoke and Staffordshire
-1684115,DM9,2024-05-21,S,2024-05-17,1,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common side effect but check with doctor if concerned.,T2DR - Stoke and Staffordshire
-1684115,DM9,2024-10-14,S,2024-10-14,12,Blood Pressure,,,N,,N,,N,2024-10-14,,,N,,,N,0,,"Advised to speak to GP asap, PT confirmed they will do so.",T2DR - Stoke and Staffordshire
-1684115,DM9,2024-12-05,A,2024-12-05,,,7,BP reading,N,,N,,N,,,,N,,,N,0,,Advised to call GP as soon as possible ,T2DR - Stoke and Staffordshire
-1684115,DM9,2025-01-09,A,2025-01-09,,,7,High BP,N,,N,,N,,,,N,,,N,0,,Has GP appointment tomorrow. BP reading 181/88,T2DR - Stoke and Staffordshire
-1686625,DM9,2024-05-22,S,2024-05-20,3,,,,N,,N,,N,,,,N,,,N,0,,Advised this is common side effect likely to subside but to see doctor if concerned.,T2DR - Stoke and Staffordshire
-1686625,DM9,2024-05-29,S,2024-05-29,1,,,,N,,N,,N,,,,N,,,N,0,,"Advised that this is normal side effect and to ensure adequate water and fibre intake, but speak to doctor if concerned",T2DR - Stoke and Staffordshire
-1686625,DM9,2024-06-05,S,2024-06-05,1,,,,N,,N,,N,,,,N,,,N,0,,"Still experiencing constipation, advised this is common but to see doctor if concerned",T2DR - Stoke and Staffordshire
-1686625,DM9,2024-06-19,S,2024-06-19,1,,,,N,,N,,N,,,,N,,,N,0,,Still experiencing constipation - has spoken to doctor and advised to continue drinking plenty of water,T2DR - Stoke and Staffordshire
-1686625,DM9,2025-02-06,S,2025-02-06,12,1,,,N,,N,,N,,,,N,,,N,0,,PT suffering from arthritis/swollen feet. Advised to monitor symptoms and call GP or 111 if concerned.,T2DR - Stoke and Staffordshire
-1686625,DM9,2025-03-27,S,2025-03-27,12,1,,,N,,N,,N,,,,N,,,N,0,,PT is recovering from a chest infection alongside fasting for ramadan. Advised to monitor symptoms and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1686625,DM9,2025-04-24,A,2025-04-24,,,7,Blood Glucose at 15.2,N,,Y,2025-04-24,N,,,,N,,,N,0,,Blood glucose at 15.2.  Discussed with PT that they need to call their GP today and make an appointment.  PT to retake BG in 2 hours and text results.,T2DR - Stoke and Staffordshire
-1686762,DM9,2025-03-19,S,2025-03-19,12,1,,,N,,N,,N,,,,N,,,N,0,,"PT glucose reading lower than average upon waking. Felt sleepier than usual, but more normal after breakfast. Advised to call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1697197,DM9,2024-04-09,S,2024-04-09,3,,,,N,,N,,N,,,,N,,,N,0,,Advised that headaches are common side effect likely to subside but to seek medical advice if concerned.,T2DR - Stoke and Staffordshire
-1697197,DM9,2024-04-16,S,2024-04-16,3,,,,N,,N,,N,,,,N,,,N,0,,"Improved since first week, advised to ensure plenty of fluid intake",T2DR - Stoke and Staffordshire
-1704558,DM9,2024-05-21,S,2024-05-17,8,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common side effect but see doctor if concerned,T2DR - Stoke and Staffordshire
-1714217,DM9,2024-10-11,S,2024-10-11,12,Blood pressure,,,N,,N,,H,2024-10-11,,,N,,,N,0,,Advised PT must see GP (has appointment on 16th),T2DR - Stoke and Staffordshire
-1714217,DM9,2024-11-08,A,2024-11-08,,,7,Blood Pressure,N,,N,,N,,,,N,,,N,0,,BP is high 2nd session in a row. Does have GP Appointment 14th of November. ,T2DR - Stoke and Staffordshire
-1714217,DM9,2025-01-08,S,2025-01-08,12,Blood pressure,,Blood pressure,N,,N,,N,,,,N,,,N,0,,seen GP and switching tablets ,T2DR - Stoke and Staffordshire
-1744296,DM9,2024-10-02,S,2024-10-02,12,anxiety,,,N,,N,,N,,,,N,,,N,0,,PT is experiencing intense anxiety. Has started on anxiety medication. Advised to monitor and call her GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1762399,DM9,2024-10-02,S,2024-10-01,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1762399,DM9,2024-10-10,S,2024-10-09,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1762399,DM9,2024-10-24,S,2024-10-23,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1762399,DM9,2025-01-14,S,2025-01-14,12,stubborn chest infection,,,N,,N,,N,,,,N,,,N,0,,PT suffering with a stubborn chest infection which is affecting her physical activity levels. Advised to monitor condition and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1762399,DM9,2025-08-28,S,2025-08-28,12,High BP,,,N,,N,,N,,,,N,,,N,0,,"PT has been rushing around before appointment, running late",T2DR - Stoke and Staffordshire
-1778950,DM9,2024-10-08,S,2024-10-06,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1778950,DM9,2024-10-17,S,2024-10-12,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor his condition and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1778950,DM9,2025-07-15,S,2025-07-15,12,High BP - medication change,,,N,,N,,N,2025-07-15,,,N,,,N,0,,Had medication changed by GP and very high BP. Asked to go straight to the GP practice - already had new BP tablets to pick up,T2DR - Stoke and Staffordshire
-1778950,DM9,2025-08-12,S,2025-08-12,12,High BP. Sent straight to GP. Felt fine.,,,N,,N,,N,2025-08-12,,,N,,,N,0,,Sent PT straight to his GP. Under medication review had new BP meds in last few weeks. ,T2DR - Stoke and Staffordshire
-1789214,DM9,2024-11-04,S,2024-11-03,4,,,,N,,N,,N,,,,N,,,N,0,,monitor and see GP if worse ,T2DR - Stoke and Staffordshire
-1789214,DM9,2024-11-11,S,2024-11-07,4,,,,N,,N,,N,,,,N,,,N,0,,getting better - see GP if continue ,T2DR - Stoke and Staffordshire
-1799127,DM9,2024-11-19,S,2024-11-16,3,,,,N,,N,,N,,,,N,,,N,0,,Advised PT to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1799127,DM9,2024-12-10,S,2024-12-10,4,,,,N,,N,,N,,,,N,,,N,0,,Has had a few episodes of lightheadedness. Advised to monitor condition and call GP or 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
-1799127,DM9,2025-05-12,S,2025-05-12,3,,,,N,,N,,N,,,,N,,,N,0,,PT had a few headaches when driving and then eaten high sugar foods to combat. advised to take blood glucose reading to see if low before eating sugar - talked about cravings. ,T2DR - Stoke and Staffordshire
-1801806,DM9,2024-11-14,S,2024-11-14,7,,,,N,,N,,N,,,,N,,,N,0,,PT has experienced nausea and vomiting in the mornings for two consecutive days. Advised her to contact GP immediately or call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1809713,DM9,2024-11-26,S,2024-11-18,12,Gout,,,N,,N,,N,,,,N,,,N,0,,Seen GP,T2DR - Stoke and Staffordshire
-1809713,DM9,2025-01-14,S,2025-01-12,9,,,,N,,N,,N,,,,N,,,N,0,,Seeing GP,T2DR - Stoke and Staffordshire
-1821285,DM9,2024-11-12,S,2024-11-11,4,,,,N,,N,,N,,,,N,,,N,0,,See GP if worse ,T2DR - Stoke and Staffordshire
-1830448,DM9,2024-11-26,S,2024-11-18,1,,,,N,,N,,N,,,,N,,,N,0,,Got better - see GP if gets worse again,T2DR - Stoke and Staffordshire
-1842690,DM9,2025-02-13,S,2025-02-05,4,,,,N,,N,,N,,,,N,,,N,0,,Advised it is a side effect if worse see GP,T2DR - Stoke and Staffordshire
-1859531,DM9,2025-01-23,S,2025-01-23,3,,,,N,,N,,N,,,,N,,,N,0,,"Suggested to increase fluid intake, to monitor condition and to call GP/111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1859531,DM9,2025-01-30,S,2025-01-30,3,,,,N,,N,,N,,,,N,,,N,0,,Experiencing occasional headaches/dizziness. Has bought sugar-free isotonic drinks which have helped. Advised to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1859531,DM9,2025-02-13,S,2025-02-13,3,,,,N,,N,,N,,,,N,,,N,0,,PT still having the occasional headache. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1859531,DM9,2025-02-27,S,2025-02-27,3,,,,N,,N,,N,,,,N,,,N,0,,"PT has had occasional headaches, but hasn't always managed to have four TDR daily. Advised to monitor and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1859531,DM9,2025-03-13,S,2025-03-13,3,,,,N,,N,,N,,,,N,,,N,0,,"PT thinks he experienced a hypo episode. Symptoms - pins & needles, severe headache, elevated heart rate, pain in shoulders. Advised to monitor symptoms and call 111/999 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1859535,DM9,2025-02-27,S,2025-02-27,1,,,,N,,N,,N,,,,N,,,N,0,,PT has experienced severe constipation which has now eased. Altrafibre did not help but increasing hydration did. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1859535,DM9,2025-03-13,S,2025-03-13,1,,,,N,,N,,N,,,,N,,,N,0,,"Advised to increase fluid intake, have regular altrafibre intake, monitor symptoms and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
-1868628,DM9,2025-02-25,S,2025-02-25,3,,,,N,,N,,N,,,,N,,,N,0,,Has been having constant headaches that started before TDR. GP thinks it's related to changes in BP medication. Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1868628,DM9,2025-03-04,S,2025-03-04,3,,,,N,,N,,N,,,,N,,,N,0,,Continued to have headaches. Thinks it might be his new BP meds and cutting out caffeine. Advised to refer to side effects information sheet and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1868628,DM9,2025-03-25,S,2025-03-25,13,,,,N,,N,,N,,,,N,,,N,0,,Griping pains and discomfort from churning stomach. Advised to monitor and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1869669,DM9,2025-03-11,S,2025-03-11,4,,,,N,,N,,N,,,,N,,,N,0,,Episodes of feeling lightheaded but increased fluid intake has helped. Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1869669,DM9,2025-12-11,S,2025-12-11,14,,,,N,,N,,N,,,,N,,,N,0,,"PT suspected keto rash, apparently had for few weeks but didn't mention before. I sceptical as not fully complied, advice to see GP if doesn't improve after re-intro of food.",T2DR - Stoke and Staffordshire
-1872490,DM9,2025-03-11,S,2025-03-11,11,,,,N,,N,,N,,,,N,,,N,0,,PT experiencing slight short-sightedness before and during TDR. Is arranging for an eye test. Advised to call GP or 111 if feeling concerned.,T2DR - Stoke and Staffordshire
-1872505,DM9,2025-03-04,S,2025-03-04,4,,,,N,,N,,N,,,,N,,,N,0,,Headaches and slight dizziness. Advised to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1872505,DM9,2025-03-11,S,2025-03-11,1,,,,N,,N,,N,,,,N,,,N,0,,PT had constipation but symptoms have improved. Ate a small amount of food which helped and is now taking altrafibre daily. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1873401,DM9,2025-02-25,S,2025-02-25,3,,,,N,,N,,N,,,,N,,,N,0,,PT has had slight headaches at times. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
-1873401,DM9,2025-06-05,S,2025-06-05,12,"Right kidney pain, not shake related",,,N,,N,,N,,,,N,,,N,0,,Will be going to the GP Monday to be checked,T2DR - Stoke and Staffordshire
-1886330,DM9,2025-04-28,S,2025-04-28,12,BG,,,N,,Y,2025-04-28,N,,,,N,,,N,0,,Asked PT to retake BG in 90mins and advised to talk to GP if still elevated.,T2DR - Stoke and Staffordshire
-1886330,DM9,2025-08-11,S,2025-08-11,12,High BP.  Very stressed & hungover,,,N,,Y,2025-08-11,N,,,,N,,,N,0,,Find time to sit and relax and de-stress. Husband was with him. No dizziness or light headedness,T2DR - Stoke and Staffordshire
-1908420,DM9,2025-04-28,S,2025-04-28,12,BP,,,N,,N,,N,,,,N,,,N,0,,"Discussed BP with PT. On medication, not highest it's been recently. Building work at home, stressed, GP reviewed medication last week.  Will not increase due to starting this program. R/V 2 wks.",T2DR - Stoke and Staffordshire
-1916978,DM9,2025-06-06,S,2025-06-06,8,,,,N,,N,,N,,,,N,,,N,0,,"PT to monitor, drink fluids, take fibre, and electrolytes if needed",T2DR - Stoke and Staffordshire
-1916978,DM9,2025-08-08,S,2025-08-04,4,,,,N,,N,,N,,,,N,,,N,0,,slight dehydration and large weight loss.,T2DR - Stoke and Staffordshire
-1931137,DM9,2025-05-28,S,2025-05-28,12,Blood Pressure,,,N,,N,,N,,,,N,,,N,0,,162/88,T2DR - Stoke and Staffordshire
-1931137,DM9,2025-08-20,S,2025-08-20,12,BP,,,N,,N,,N,,,,N,,,N,0,,asked to retake BP after she had settled,T2DR - Stoke and Staffordshire
-1931137,DM9,2025-09-03,S,2025-09-03,12,low BP,,,N,,N,,N,,,,N,,,N,0,,Asked PT to retake this and also asked for an up to date BP medication list. Advised PT they may need a medication review.,T2DR - Stoke and Staffordshire
-1932698,DM9,2025-07-17,S,2025-07-17,12,Low Blood Pressure,,,N,,N,,N,,,,N,,,N,0,,second reading was 102/65.  Low for PT. asked PT to take it at home in the next few hours and then get in touch with GP for a medication review.  On 2 types of BP pills.,T2DR - Stoke and Staffordshire
-1937618,DM9,2025-06-06,S,2025-05-30,13,,,,N,,N,,N,,,,N,,,N,0,,stopped the shakes and recovered. and now just taking 2 shakes a day plus 1 healthy meal.,T2DR - Stoke and Staffordshire
-1947261,DM9,2025-06-26,S,2025-06-26,3,,,,N,,N,,N,,,,N,,,N,0,,"Headaches most days, has just started drinking 1.5l of water a day (started yesterday).  Going to see if water helps. Advised to talk to GP if continues or gets worse.",T2DR - Stoke and Staffordshire
-1947261,DM9,2025-08-07,S,2025-08-07,12,BP,,,N,,N,,N,,,,N,,,N,0,,Told to increase medication after 1 week. Going to monitor BP at home and also going back to the GP in 3 weeks to check.  Has bad back and in pain which is making BP high.,T2DR - Stoke and Staffordshire
-1954330,DM9,2025-07-04,S,2025-06-30,8,,,,N,,N,,N,,,,N,,,N,0,,PT has requested to be removed from the programme due to this ,T2DR - Stoke and Staffordshire
-1965732,DM9,2025-08-01,S,2025-07-30,3,,,,N,,N,,N,,,,N,,,N,0,,Monitor and contact GP if worse,T2DR - Stoke and Staffordshire
-1969288,DM9,2025-08-01,S,2025-07-28,3,,,,N,,N,,N,,,,N,,,N,0,,monitor and see GP if worse ,T2DR - Stoke and Staffordshire
-1969302,DM9,2025-11-20,S,2025-11-06,6,,,,N,,N,,N,,,,Y,2025-11-20,,N,0,,Said is not linked to TDR as is her depression and missing some meds for mental health without informing doctor. She is going to go and pick up some more medication that she has on prescription.,T2DR - Stoke and Staffordshire
-1969949,DM9,2025-07-04,S,2025-06-29,3,,,,N,,N,,N,,,,N,,,N,0,,Monitor and see GP if gets worse.,T2DR - Stoke and Staffordshire
-1979708,DM9,2025-08-22,S,2025-08-11,1,,,,N,,N,,N,,,,N,,,N,0,,"Constipated going once every two days, having fibre twice a day. Will try a fibre in the middle of the day as well. Is drinking 4 litres of water a aday",T2DR - Stoke and Staffordshire
-1981655,DM9,2025-10-13,S,2025-10-03,8,,,,N,,N,,N,,,,N,,,N,0,,"One episode, but back to normal following day",T2DR - Stoke and Staffordshire
-1985106,DM9,2025-11-07,S,2025-11-07,10,,,,N,,N,,N,,,,N,,,N,0,,Have said its recognised issue that should resolve after reintroduction food.,T2DR - Stoke and Staffordshire
-1986966,DM9,2025-11-11,S,2025-11-08,4,,,,N,,N,,N,,,,N,,,N,0,,Gone now and advised to see GP if worse ,T2DR - Stoke and Staffordshire
-1997826,DM9,2026-04-23,S,2026-03-10,5,,,,N,,N,,N,,,,N,,,N,0,,"Tired, exhausted and fatigued but does not know if it’s his new meds. Gone on for heart failure - meds candesartan, he thinks it could be the medication that is making him feel like this. ",T2DR - Stoke and Staffordshire
-1999623,DM9,2026-01-14,S,2026-01-14,13,,,,N,,N,,N,,,,N,,,N,0,,"Suspected Diverticulitis as had before, puts down to treats during Christmas. Seeing GP today",T2DR - Stoke and Staffordshire
-2009978,DM9,2025-11-04,S,2025-11-04,1,,,,Y,2025-11-03,N,,N,,,,N,,,N,0,,"Hasn't been toilet consistently, taking fibre, have advised more water intake.",T2DR - Stoke and Staffordshire
-2009978,DM9,2026-04-21,S,2026-04-11,4,,,,N,,N,,N,,,,N,,,N,0,,"Was away on golf holiday, didn't eat enough and fainted, went to hospital and was checked out, all clear and discharged. ",T2DR - Stoke and Staffordshire
-2022502,DM9,2025-11-04,S,2025-11-02,3,,,,N,,N,,N,,,,N,,,N,0,,Headache has gone now but told to monitor,T2DR - Stoke and Staffordshire
-2022510,DM9,2025-11-11,S,2025-11-11,11,,,,N,,N,,N,,,,N,,,N,0,,Monitor and call GP if it gets worse or continues ,T2DR - Stoke and Staffordshire
-2024907,DM9,2026-01-30,S,2026-01-27,1,,,,N,,N,,N,,,,N,,,N,0,,Has gone now but told to monitor if it comes back ,T2DR - Stoke and Staffordshire
-2028525,DM9,2025-12-03,S,2025-12-03,4,,,,N,,N,,N,,,,N,,,N,0,,Has already been to GP and under obs. due to low iron Has felt well since.,T2DR - Stoke and Staffordshire
-2028525,DM9,2026-03-25,S,2026-03-25,4,,,,N,,N,,N,,,,N,,,N,0,,"Had 1 dizzy spell, ate a banana and felt fine, assume Hypo glycaemic. Sais to monitor and if happens again.",T2DR - Stoke and Staffordshire
-2028525,DM9,2026-05-20,,,,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
-2053521,DM9,2026-02-25,S,2026-02-19,14,,,,N,,N,,N,,,,N,,,N,0,,mentioned slight itch on both arms that started over the past week,T2DR - Stoke and Staffordshire
-2086950,DM9,2026-04-14,S,2026-04-14,7,,,,N,,N,,N,,,,N,,,N,0,,Discussed that she'd eaten crisps the night before. Recommended full TDR,T2DR - Stoke and Staffordshire
-2121020,DM9,2026-07-24,S,,12,Gout has come back ,,,N,,N,,N,,,,N,,,N,0,,Advised to speak to GP - has asked to go to partial as thinks shakes are causing gout. ,T2DR - Stoke and Staffordshire
-2126105,DM9,2026-07-22,S,2026-07-22,4,,,,N,,N,,N,,,,N,,,N,0,,To monitor and speak to GP if gets worse. ,T2DR - Stoke and Staffordshire
-2126105,DM9,2026-08-05,S,2026-08-05,7,,,,N,,N,,N,,,,N,,,N,0,,Monitor as comes and goes. Waiting for GP to feed back on tests that are needed anyway. Advised to go to GP if gets worse. Sickness has been going on for over a year. ,T2DR - Stoke and Staffordshire
-2130666,DM9,2026-05-29,S,2026-05-28,7,,,,N,,N,,N,,,,N,,,N,0,,"experienced nausea one an occasion, had a small meal which helped.",T2DR - Stoke and Staffordshire
-2142681,DM9,2026-08-05,S,2026-08-02,1,,,,N,,N,,N,,,,N,,,Y,0,,Constipated for 4 days. Saw GP - given laxatives. Seeing GP again tomorrow. ,T2DR - Stoke and Staffordshire
-2142681,DM9,2026-08-19,S,2026-07-16,1,,,,N,,N,,N,,,,N,,,N,0,,Has been constipated for 6 days. Drinking fluids and taking fibre. Go to GP if doesn't improve in next few days. ,T2DR - Stoke and Staffordshire
+Unique_Referral_ID,Organisation_code_of_LCD_provider,Date_of_Session_or_Engagement,Type_of_Health_Incident,Date_of_health_incident,Type_of_side_effect,Type_of_side_effect_other,Type_of_adverse_event,Type_of_adverse_event_other,Fibre_Supplement_pack_provided,Date_fibre_Supplement_pack_provided,Has_the_capillary_blood_glucose_flag_been_triggered,Date_capillary_blood_glucose_flag_triggered,Has_blood_pressure_flag_been_triggered,Date_blood_pressure_flag_triggered,Serious_adverse_event_NLU,Date_serious_adverse_event_occurred_NLU,Programme_deintensified,Date_programme_deintensified,Date_programme_reintensified,Any_alerts_discussed_with_Medical_Director,Number_of_unique_alerts_given_to_primary_care,Date_of_alert_given_to_primary_care,Action(s)_taken,Programme_Name
+1753102,DM9,19/07/2024,S,18/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,manage stress levels/monitor with GP,T2DR - Stoke and Staffordshire
+1753102,DM9,04/07/2024,S,04/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"rest when needed, hydrate, see pharmacy/GP",T2DR - Stoke and Staffordshire
+1877199,DM9,19/03/2025,S,19/03/2025,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydration, seek GP review if needed",T2DR - Stoke and Staffordshire
+1689035,DM9,27/03/2024,S,25/03/2024,13,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1689035,DM9,28/03/2024,S,28/03/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Consult GP,T2DR - Stoke and Staffordshire
+1733546,DM9,19/07/2024,S,19/07/2024,13,,,,N,,N,,N,,,,N,,,N,0,,Split shakes up,T2DR - Stoke and Staffordshire
+1733546,DM9,13/08/2024,S,13/08/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"Member contacted GP already, await appointment",T2DR - Stoke and Staffordshire
+1784760,DM9,29/10/2024,S,29/10/2024,12,diverticulitis flare up,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1784760,DM9,15/01/2025,S,15/01/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"follow medical advice, hydration",T2DR - Stoke and Staffordshire
+1762386,DM9,31/03/2025,S,29/03/2025,12,Low BP,,,N,,N,,L,31/03/2025,,,N,,,N,1,31/03/2025,Inform GP,T2DR - Stoke and Staffordshire
+1792875,DM9,,S,26/11/2024,12,"tingling and numbness, headache",,,N,,N,,N,,,,N,,,Y,0,,"has GP appointment 27.11, follow their advice",T2DR - Stoke and Staffordshire
+1877199,DM9,22/07/2025,A,21/07/2025,,,7,"Unwell, resulted in A&E",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1925427,DM9,28/04/2025,S,26/04/2025,12,Headache and bad stomach,,,N,,N,,N,,,,N,,,N,0,,"Hydration, split shakes",T2DR - Stoke and Staffordshire
+1762386,DM9,25/11/2024,S,23/11/2024,12,low diastolic BP,,,N,,N,,L,25/11/2024,,,N,,,N,0,,Repeat BP,T2DR - Stoke and Staffordshire
+1792875,DM9,19/01/2025,S,19/01/2025,12,Low BP,,,N,,N,,L,19/01/2025,,,N,,,N,0,,Had GP review and reduced medication so monitor.,T2DR - Stoke and Staffordshire
+1981641,DM9,18/08/2025,S,15/08/2025,4,,,,N,,N,,N,,,,N,,,N,0,,"Visiting dr, monitor",T2DR - Stoke and Staffordshire
+1906970,DM9,14/04/2025,S,14/04/2025,4,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, check BG, see GP if needed",T2DR - Stoke and Staffordshire
+1757468,DM9,09/05/2025,S,09/05/2025,12,raised blood glucose,,,N,,Y,09/05/2025,N,,,,N,,,N,1,09/05/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1709827,DM9,17/12/2024,S,17/12/2024,12,"Sinus, chest infection, trapped nerve in neck",,,N,,N,,N,,,,N,,,N,0,,See GP and physio,T2DR - Stoke and Staffordshire
+1789169,DM9,30/04/2025,S,30/04/2025,12,Struggling with mental health,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1689035,DM9,27/03/2024,S,25/03/2024,13,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1762372,DM9,19/11/2024,S,18/11/2024,12,Raised BP,,,N,,N,,H,19/11/2024,,,N,,,N,0,,Contacted GP,T2DR - Stoke and Staffordshire
+1799168,DM9,16/12/2024,S,16/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
+1733541,DM9,11/06/2024,S,11/06/2024,11,,,,N,,N,,N,,,,N,,,Y,0,,referred for diabetes eye test,T2DR - Stoke and Staffordshire
+1899325,DM9,10/06/2025,A,10/06/2025,,,3,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1735730,DM9,03/07/2024,S,03/07/2024,1,,,,Y,03/07/2024,N,,N,,,,N,,,N,0,,"fibre, hydrate, if no improvement, see GP",T2DR - Stoke and Staffordshire
+1759255,DM9,30/12/2024,S,30/12/2024,12,low BP,,,N,,N,,L,30/12/2024,,,N,,,N,1,30/12/2024,Inform GP,T2DR - Stoke and Staffordshire
+1733541,DM9,11/06/2024,S,11/06/2024,12,Elevated HbA1c reading,,,N,,N,,N,,,,N,,,Y,0,,GP aware and referred for CT scan on liver + pancr,T2DR - Stoke and Staffordshire
+1905485,DM9,28/03/2025,S,27/03/2025,12,Raised BP,,,N,,N,,H,28/03/2025,,,N,,,N,0,,Monitor as 1st day of TDR,T2DR - Stoke and Staffordshire
+1753108,DM9,19/07/2024,S,18/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Increase fluid, stress management, reduce screens",T2DR - Stoke and Staffordshire
+1885515,DM9,23/07/2025,S,22/07/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1712550,DM9,18/02/2025,S,18/02/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1902591,DM9,17/06/2025,S,17/06/2025,4,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1799168,DM9,18/11/2024,S,16/11/2024,15,,,,N,,Y,18/11/2024,H,18/11/2024,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
+1699258,DM9,30/12/2024,S,30/12/2024,12,raised blood pressure twice,,,N,,N,,H,30/12/2024,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1830437,DM9,20/01/2025,S,20/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed.",T2DR - Stoke and Staffordshire
+1762372,DM9,02/09/2024,S,02/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor BP and BG",T2DR - Stoke and Staffordshire
+1753102,DM9,04/07/2024,S,04/07/2024,13,bloated,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1887296,DM9,10/03/2025,S,07/03/2025,9,,,,N,,N,,N,,,,N,,,N,0,,"monitor, if worsen seek medical advice",T2DR - Stoke and Staffordshire
+1793810,DM9,27/09/2024,S,27/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
+1790117,DM9,30/09/2024,S,27/09/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"Hydration, monitor",T2DR - Stoke and Staffordshire
+1744315,DM9,24/03/2025,S,23/03/2025,3,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1750656,DM9,12/12/2024,S,12/12/2024,12,"tiredness, tinnitus, shortness of breath",,,N,,N,,N,,,,N,,,N,0,,To see GP,T2DR - Stoke and Staffordshire
+1878022,DM9,14/04/2025,S,14/04/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1733589,DM9,09/07/2024,S,08/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, speak to pharmacy/GP if no improvement",T2DR - Stoke and Staffordshire
+1887296,DM9,,S,12/03/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, try soup, see GP if no improvement",T2DR - Stoke and Staffordshire
+1925408,DM9,,S,16/05/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1877199,DM9,,S,30/01/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1750616,DM9,,S,13/06/2025,12,Knee replacement,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1784593,DM9,10/10/2024,S,10/10/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Follow GP advice,T2DR - Stoke and Staffordshire
+1714175,DM9,22/05/2024,S,21/05/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"Reduce fibre supplement, hydrate, if cont see GP",T2DR - Stoke and Staffordshire
+1888197,DM9,18/03/2025,S,18/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1753082,DM9,08/04/2025,A,27/03/2025,,,7,Brain tumour,N,,N,,N,,,,N,,,Y,0,,Await MDT review,T2DR - Stoke and Staffordshire
+1779972,DM9,02/09/2024,S,30/08/2024,8,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
+1742480,DM9,12/08/2024,S,12/08/2024,12,Slip disc resulted in hospital admission,,,N,,N,,N,,,,N,,,N,0,,Member to follow medical advise,T2DR - Stoke and Staffordshire
+1784593,DM9,09/12/2024,S,09/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1712515,DM9,21/08/2024,S,21/08/2024,11,,,,N,,Y,21/08/2024,N,,,,N,,,Y,0,,Member is seeing GP,T2DR - Stoke and Staffordshire
+1755572,DM9,18/07/2024,S,17/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Increase fluid intake,T2DR - Stoke and Staffordshire
+1735730,DM9,24/07/2024,S,23/07/2024,15,,,,N,,N,,N,,,,N,,,N,0,,antibiotics from GP,T2DR - Stoke and Staffordshire
+1783978,DM9,23/09/2024,S,20/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
+1949826,DM9,18/07/2025,S,18/07/2025,12,Postural symptoms possibly associated with low BP,,,N,,N,,N,,,,N,,,N,1,18/07/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1786311,DM9,23/03/2025,S,23/03/2025,12,Raised BG 2nd time,,,N,,Y,23/03/2025,N,,,,N,,,N,1,24/03/2025,Inform GP,T2DR - Stoke and Staffordshire
+1733622,DM9,18/03/2025,S,17/03/2025,12,Blood glucose raised,,,N,,Y,18/03/2025,N,,,,N,,,N,0,,"Re-tested and back to normal, continue to monitor",T2DR - Stoke and Staffordshire
+1805743,DM9,08/08/2025,S,07/08/2025,12,Raised BG twice,,,N,,Y,07/08/2025,N,,,,N,,,N,1,07/08/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1739222,DM9,02/10/2024,A,02/10/2024,,,12,,N,,N,,N,,,,N,,,Y,0,,To follow Neuro advise,T2DR - Stoke and Staffordshire
+1810832,DM9,06/01/2025,S,06/01/2025,12,Diarrhoea and vomitting,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
+1686296,DM9,27/01/2025,S,27/01/2025,12,raised blood pressure,,,N,,N,,H,27/01/2025,,,N,,,N,3,28/01/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1974245,DM9,25/07/2025,S,23/07/2025,12,stomach disturbed,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1831260,DM9,26/05/2025,S,26/05/2025,12,Raised BG,,,N,,Y,26/05/2025,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1790158,DM9,,S,06/05/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1892599,DM9,,S,11/07/2025,12,Low BP,,,N,,N,,L,14/07/2025,,,N,,,N,1,14/07/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1908339,DM9,,S,29/07/2025,13,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,,S,24/03/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1762382,DM9,,S,12/02/2025,12,Post knee operation complications,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1689121,DM9,10/02/2025,S,08/02/2025,12,Low BP,,,N,,N,,L,10/02/2025,,,N,,,N,1,10/02/2025,GP informed,T2DR - Stoke and Staffordshire
+1806847,DM9,22/10/2024,S,22/10/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
+1806866,DM9,06/01/2025,A,06/01/2025,,,7,"Headache, fever, hospital admission",N,,N,,N,,,,Y,06/01/2025,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,07/04/2025,S,07/04/2025,15,,,,N,,N,,N,,,,N,,,N,0,,contacting GP,T2DR - Stoke and Staffordshire
+1880141,DM9,02/07/2025,S,02/07/2025,12,headache and nausea,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1744315,DM9,12/08/2024,S,12/08/2024,12,"Light headed, dizziness and dirrhoea",,,N,,N,,N,,,,N,,,N,0,,Seek medical review if persist.,T2DR - Stoke and Staffordshire
+1719422,DM9,20/06/2024,S,20/06/2024,3,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
+1856143,DM9,28/01/2025,S,28/01/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1712515,DM9,23/08/2024,S,22/08/2024,12,raised blood glucose,,,N,,Y,23/08/2024,N,,,,N,,,Y,0,,"Monitor, started medication and under GP care",T2DR - Stoke and Staffordshire
+1735730,DM9,24/07/2024,S,23/07/2024,13,,,,N,,N,,N,,,,N,,,Y,0,,consume shake/and or veg with antibiotic,T2DR - Stoke and Staffordshire
+1712525,DM9,04/07/2024,S,04/07/2024,12,raised blood pressure,,,N,,N,,H,04/07/2024,,,N,,,N,2,05/07/2024,Inform GP.,T2DR - Stoke and Staffordshire
+1916964,DM9,22/04/2025,S,19/04/2025,1,,,,Y,22/04/2025,N,,N,,,,N,,,N,0,,Take fibre supplement,T2DR - Stoke and Staffordshire
+1831260,DM9,11/03/2025,S,10/03/2025,12,Raised BG level 20.3 mmol/L,,,N,,Y,11/03/2025,N,,,,N,,,N,2,11/03/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1757425,DM9,24/07/2024,S,24/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
+1743355,DM9,17/02/2025,S,17/02/2025,12,Injury,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
+1772915,DM9,06/10/2024,S,06/10/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1881113,DM9,11/02/2025,S,11/02/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1658897,DM9,23/02/2024,S,23/02/2024,12,"White tongue, mild discomfort",,,N,,N,,N,,,,N,,,N,0,,"Monitor, speak to GP if concern",T2DR - Stoke and Staffordshire
+1888210,DM9,22/04/2025,S,19/04/2025,15,,,,N,,N,,N,,,,N,,,N,0,,rest,T2DR - Stoke and Staffordshire
+1830437,DM9,03/02/2025,S,03/02/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1887296,DM9,26/06/2025,S,26/06/2025,15,,,,N,,N,,N,,,,N,,,N,0,,"On antibiotics, follow medical advice",T2DR - Stoke and Staffordshire
+1888653,DM9,11/03/2025,S,11/03/2025,12,mouth sore and itchy with vegetable soup only,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1788242,DM9,10/10/2024,S,10/10/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"speak to GP about pain meds, consider food",T2DR - Stoke and Staffordshire
+1863605,DM9,18/02/2025,S,18/02/2025,12,low BP,,,N,,N,,L,18/02/2025,,,N,,,N,1,19/02/2025,Inform GP,T2DR - Stoke and Staffordshire
+1689035,DM9,28/03/2024,S,25/03/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Consult GP,T2DR - Stoke and Staffordshire
+1753086,DM9,18/07/2024,S,18/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Increase fluid intake,T2DR - Stoke and Staffordshire
+1907260,DM9,13/05/2025,S,13/05/2025,12,Chest was tight and couldn't breathe,,,N,,N,,N,,,,N,,,N,0,,Seek a medical review,T2DR - Stoke and Staffordshire
+1888210,DM9,02/07/2025,S,02/07/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1751437,DM9,30/08/2024,S,30/08/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
+1784740,DM9,03/12/2024,S,03/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1727481,DM9,25/09/2024,S,25/09/2024,15,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
+1799168,DM9,23/12/2024,S,23/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1848019,DM9,07/04/2025,S,26/03/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1931167,DM9,29/07/2025,S,29/07/2025,13,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1762382,DM9,24/07/2024,S,22/07/2024,5,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
+1770222,DM9,02/01/2025,S,02/01/2025,12,"Newly diagnosed sleep apnoea, PCOS",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1791960,DM9,28/10/2024,S,27/10/2024,12,Low BP,,,N,,N,,L,28/10/2024,,,N,,,N,0,,Inform GP,T2DR - Stoke and Staffordshire
+1729325,DM9,18/10/2024,S,18/10/2024,15,,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1766401,DM9,02/10/2024,S,02/10/2024,12,Fainting,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1888197,DM9,28/03/2025,A,20/03/2025,,,7,sever back pain resulted in A&E admission,N,,N,,N,,,,N,,,N,0,,"All investigations were normal, under GP care",T2DR - Stoke and Staffordshire
+1750656,DM9,09/07/2024,S,09/07/2024,8,,,,N,,N,,N,,,,N,,,N,0,,split shake intake and monitor,T2DR - Stoke and Staffordshire
+1848019,DM9,03/02/2025,S,29/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1851801,DM9,16/07/2025,S,15/07/2025,12,Raised BP,,,N,,N,,H,16/07/2025,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1822685,DM9,30/12/2024,S,30/12/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1792875,DM9,10/02/2025,S,09/02/2025,12,Low BP,,,N,,N,,L,10/02/2025,,,N,,,N,0,,"Follow medical advice, GP is aware and monitoring",T2DR - Stoke and Staffordshire
+1791960,DM9,07/11/2024,S,06/11/2024,12,"Worsen pre-existing comorbidity, alcohol intake",,,N,,N,,N,,,,Y,07/11/2024,,Y,1,07/11/2024,"Take a pause, continue to seek medical review",T2DR - Stoke and Staffordshire
+1880105,DM9,03/03/2025,S,26/02/2025,12,Low BP,,,N,,N,,L,03/03/2025,,,N,,,N,1,03/03/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1906984,DM9,28/04/2025,S,28/04/2025,12,Being sick,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1744304,DM9,12/07/2024,S,12/07/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"split his shakes/soups, if no improvement see GP",T2DR - Stoke and Staffordshire
+1711587,DM9,05/02/2025,S,05/02/2025,12,hospital admission for CT stomach,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,27/03/2025,S,26/03/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1840730,DM9,11/04/2025,S,11/04/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, seek medical review if needed",T2DR - Stoke and Staffordshire
+1878022,DM9,28/05/2025,S,28/05/2025,15,UTI,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1731378,DM9,02/07/2024,S,02/07/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"split shakes into smaller volume, rehydrate",T2DR - Stoke and Staffordshire
+1698129,DM9,09/05/2024,S,09/05/2024,12,raised systolic BP,,,N,,N,,H,09/05/2024,,,N,,,N,0,,"Monitor and record, under GP care",T2DR - Stoke and Staffordshire
+1766427,DM9,19/08/2024,S,18/08/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"hydration, slow down standing,sitting, monitor BG",T2DR - Stoke and Staffordshire
+1888210,DM9,11/03/2025,S,11/03/2025,8,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if worsens or persist.,T2DR - Stoke and Staffordshire
+1772048,DM9,29/10/2024,S,29/10/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, see GP if needed",T2DR - Stoke and Staffordshire
+1793803,DM9,19/01/2025,S,19/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical review if needed.,T2DR - Stoke and Staffordshire
+1806847,DM9,30/07/2025,S,28/07/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1921779,DM9,12/06/2025,S,12/06/2025,7,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
+1685441,DM9,31/01/2025,S,31/01/2025,12,arthritis symptom worsened,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1739222,DM9,12/08/2024,S,12/08/2024,12,Light headed and dizziness,,,N,,N,,N,,,,N,,,N,0,,Seek medical review if persist.,T2DR - Stoke and Staffordshire
+1697172,DM9,04/09/2024,S,04/09/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1888197,DM9,30/05/2025,S,30/05/2025,12,Newly diagnosed with osteoporosis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1744304,DM9,13/08/2024,S,13/08/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"Monitor BG and BP, slow down, gentle activities",T2DR - Stoke and Staffordshire
+1844490,DM9,13/01/2025,S,13/01/2025,9,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1814913,DM9,20/03/2025,S,20/03/2025,12,"bad stomach, worried and depressed",,,N,,N,,N,,,,N,,,N,0,,"Resources shared, signposted to GP",T2DR - Stoke and Staffordshire
+1887296,DM9,23/06/2025,S,23/06/2025,13,"pain after food, sickness, unable to eat much",,,N,,N,,N,,,,N,,,Y,0,,"Seek GP review, if sever, call 111",T2DR - Stoke and Staffordshire
+1697284,DM9,08/11/2024,S,31/10/2024,12,A&E due to chest pain,,,N,,N,,N,,,,N,,,N,0,,"Under GP care, follow their advice",T2DR - Stoke and Staffordshire
+1762382,DM9,21/02/2025,S,21/02/2025,12,post knee surgery complications,,,N,,N,,N,,,,N,,,N,0,,follow medical care,T2DR - Stoke and Staffordshire
+1791960,DM9,25/09/2024,S,25/09/2024,12,"Pain in leg, fluid leaking from leg",,,N,,N,,N,,,,N,,,Y,0,,Follow GP advice,T2DR - Stoke and Staffordshire
+1711587,DM9,10/07/2024,A,10/07/2024,,,7,newly diagnosed with neuropathy,N,,N,,N,,,,N,,,Y,0,,member is under the GP care,T2DR - Stoke and Staffordshire
+1844490,DM9,03/02/2025,S,30/01/2025,12,Diagnosed with diverticulitis,,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1689121,DM9,20/06/2024,S,11/06/2024,12,"dry mouth, thirsty, polyuria",,,N,,N,,N,,,,N,,,Y,0,,"Member spoke to GP, follow their advice",T2DR - Stoke and Staffordshire
+1743355,DM9,11/03/2025,S,11/03/2025,14,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1806835,DM9,23/02/2025,S,23/02/2025,12,"Dizziness, headache",,,N,,N,,N,,,,N,,,N,0,,"hydrate, see GP if needed",T2DR - Stoke and Staffordshire
+1859549,DM9,25/06/2025,A,25/06/2025,,,7,Anxiety attack resulted in hospitalisation,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1711587,DM9,09/09/2024,S,06/09/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Taking antibiotics,T2DR - Stoke and Staffordshire
+1789201,DM9,07/05/2025,S,07/05/2025,12,raised blood pressure,,,N,,N,,H,07/05/2025,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1793803,DM9,17/10/2024,S,17/10/2024,7,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1899325,DM9,22/04/2025,S,22/04/2025,12,Back injury,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1904271,DM9,27/05/2025,S,27/05/2025,4,,,,N,,N,,N,,,,N,,,N,0,,"Has a GP appointment, Follow medical advice",T2DR - Stoke and Staffordshire
+1755572,DM9,26/07/2024,S,26/07/2024,4,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1831260,DM9,05/02/2025,S,04/02/2025,12,raised blood glucose,,,N,,Y,05/02/2025,N,,,,N,,,N,2,05/02/2025,Inform GP,T2DR - Stoke and Staffordshire
+1870553,DM9,27/02/2025,A,24/02/2025,,,7,BG 1.3 resulted in calling ambulance,N,,Y,27/02/2025,N,,,,Y,28/02/2025,,Y,0,,"Stop TDR, see GP and follow their advice",T2DR - Stoke and Staffordshire
+1750656,DM9,23/12/2024,S,23/12/2024,12,Small traces of abnormalities with ECG found,,,N,,N,,N,,,,N,,,N,0,,Await further investigations,T2DR - Stoke and Staffordshire
+1701193,DM9,23/08/2024,S,23/08/2024,12,raised blood glucose,,,N,,Y,23/08/2024,N,,,,N,,,N,0,,Member saw GP,T2DR - Stoke and Staffordshire
+1892599,DM9,08/04/2025,S,08/04/2025,14,having a difficult time with her mental health.,,,N,,N,,N,,,,N,,,N,0,,Seek input from Mental health team,T2DR - Stoke and Staffordshire
+1851791,DM9,15/07/2025,S,14/07/2025,12,Swollen lips followed by eating gammon,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1887296,DM9,02/05/2025,S,01/05/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1888197,DM9,31/03/2025,S,28/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1792875,DM9,20/11/2024,S,19/11/2024,12,tingling and numbness,,,N,,N,,N,,,,N,,,Y,0,,Signposted to GP and call GP today,T2DR - Stoke and Staffordshire
+1877228,DM9,14/07/2025,S,14/07/2025,12,Low BP,,,N,,N,,L,14/07/2025,,,N,,,N,1,14/07/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1712515,DM9,02/05/2024,S,01/05/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
+1866884,DM9,16/07/2025,S,16/07/2025,12,Diagnosed with osteoarthritis in knee,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1905485,DM9,07/04/2025,S,06/04/2025,12,Acid reflux,,,N,,N,,N,,,,N,,,N,0,,"none needed, improved, has medication if necessary",T2DR - Stoke and Staffordshire
+1766401,DM9,03/03/2025,S,03/03/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical review,T2DR - Stoke and Staffordshire
+1783978,DM9,10/01/2025,S,10/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1750656,DM9,30/07/2024,S,30/07/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"split into 8 per day, ensure adequate fluid",T2DR - Stoke and Staffordshire
+1900271,DM9,22/04/2025,S,08/04/2025,4,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1784593,DM9,18/03/2025,S,17/03/2025,12,"Low mood, attempted to self harm",,,N,,N,,N,,,,N,,,Y,1,18/03/2025,Informed GP,T2DR - Stoke and Staffordshire
+1784740,DM9,11/02/2025,S,11/02/2025,12,Raised BG 16.6,,,N,,Y,11/02/2025,N,,,,N,,,N,0,,GP informed and arranging a review,T2DR - Stoke and Staffordshire
+1883093,DM9,07/05/2025,S,07/05/2025,12,Foot pain,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1653557,DM9,15/05/2024,S,01/05/2024,12,mental health breakdown,,,N,,N,,N,,,,N,,,Y,1,15/05/2024,signpost to GP and take a planned pause,T2DR - Stoke and Staffordshire
+1921698,DM9,20/06/2025,A,20/06/2025,,"hospital admission, may need a surgery",7,"hospital admission, may need a op for bulging disc",N,,N,,N,,,,N,,,Y,0,,"Follow medical advice, to offer a pause",T2DR - Stoke and Staffordshire
+1789201,DM9,04/03/2025,S,04/03/2025,12,Raised BP for the 2nd time,,,N,,N,,H,04/03/2025,,,N,,,N,2,05/03/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1786311,DM9,04/10/2024,S,04/10/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1712515,DM9,19/09/2024,S,18/09/2024,11,,,,N,,N,,N,,,,N,,,N,0,,Continue to seek medical review,T2DR - Stoke and Staffordshire
+1864222,DM9,17/02/2025,S,17/02/2025,12,Postural symptoms,,,N,,N,,N,,,,N,,,N,1,17/02/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1753086,DM9,25/07/2024,S,25/07/2024,12,hairspray taste in mouth,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1751480,DM9,16/07/2024,S,16/07/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"hydrate, monitor, rest",T2DR - Stoke and Staffordshire
+1810832,DM9,02/04/2025,S,01/04/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1806863,DM9,11/12/2024,S,11/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1757447,DM9,27/09/2024,S,27/09/2024,15,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1877122,DM9,30/07/2025,S,30/07/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1851791,DM9,06/03/2025,S,06/03/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1770222,DM9,30/01/2025,S,30/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1753082,DM9,13/08/2024,S,10/08/2024,15,,,,N,,N,,N,,,,N,,,N,0,,"Rest, hydration",T2DR - Stoke and Staffordshire
+1686296,DM9,20/05/2024,S,20/05/2024,12,Raised systolic BP,,,N,,N,,H,20/05/2024,,,N,,,N,3,24/05/2024,Contact GP,T2DR - Stoke and Staffordshire
+1779986,DM9,04/07/2025,S,04/07/2025,12,Struggling with mental health,,,N,,N,,N,,,,N,,,N,0,,"Seek MH support, share resources",T2DR - Stoke and Staffordshire
+1806847,DM9,10/02/2025,S,10/02/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1908339,DM9,18/06/2025,S,15/06/2025,12,BG 2.9 mmol/L,,,N,,Y,18/06/2025,N,,,,N,,,N,0,,"Had juice and toast, see GP if concerns",T2DR - Stoke and Staffordshire
+1905485,DM9,24/04/2025,S,24/04/2025,4,,,,N,,N,,N,,,,N,,,N,0,,"Follow medical advice, seen by GP",T2DR - Stoke and Staffordshire
+1712525,DM9,13/03/2025,S,13/03/2025,12,Raised BP for the 2nd time,,,N,,N,,H,13/03/2025,,,N,,,N,2,14/03/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1793803,DM9,02/07/2025,S,23/06/2025,12,Had carpal tunnel and trigger thumb surgery,,,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1784740,DM9,26/01/2025,S,26/01/2025,15,,,,N,,Y,26/01/2025,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1899325,DM9,08/04/2025,S,08/04/2025,12,"increased urination, low energy",,,N,,N,,N,,,,N,,,N,0,,"Monitor, seek medical review",T2DR - Stoke and Staffordshire
+1789208,DM9,20/01/2025,S,20/01/2025,12,Had operation on his shoulder,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1738307,DM9,13/08/2024,S,13/08/2024,8,,,,N,,N,,N,,,,N,,,N,0,,"Reduce fibre intake, ensure to have enough fluid",T2DR - Stoke and Staffordshire
+1806847,DM9,30/06/2025,A,30/06/2025,,,7,"lung infection, aneurysm, swollen Heart, arteries",N,,N,,N,,,,N,,,N,0,,"waiting echo and MRI, follow medical advice",T2DR - Stoke and Staffordshire
+1757468,DM9,26/08/2024,S,26/08/2024,12,mild bloating,,,N,,N,,N,,,,N,,,N,0,,"Monitor, reduce artificial sweetener",T2DR - Stoke and Staffordshire
+1784740,DM9,29/08/2024,S,29/08/2024,12,"dizzy, diarrhoea, sweat, headache",,,N,,N,,N,,,,N,,,N,0,,"hydration, try fibre, split into smaller amount",T2DR - Stoke and Staffordshire
+1743355,DM9,20/06/2024,S,19/06/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"coach to check hydration, caffeine intake",T2DR - Stoke and Staffordshire
+1653521,DM9,02/05/2024,S,01/05/2024,15,,,,N,,N,,N,,,,N,,,N,0,,patient contact GP,T2DR - Stoke and Staffordshire
+1924304,DM9,04/05/2025,S,04/05/2025,13,,,,N,,N,,N,,,,N,,,N,0,,"adjust fibre, monitor, see GP if needed",T2DR - Stoke and Staffordshire
+1907128,DM9,07/04/2025,S,07/04/2025,1,,,,Y,08/04/2025,N,,N,,,,N,,,N,0,,See GP for stronger fibre/laxative,T2DR - Stoke and Staffordshire
+1789169,DM9,19/12/2024,S,19/12/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1810832,DM9,01/11/2024,S,01/11/2024,7,,,,N,,N,,N,,,,N,,,N,0,,"dehydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1753086,DM9,20/09/2024,S,19/09/2024,1,,,,Y,20/09/2024,N,,N,,,,N,,,N,0,,"hydration, fibre and monitor",T2DR - Stoke and Staffordshire
+1793803,DM9,15/10/2024,S,15/10/2024,4,,,,N,,N,,N,,,,N,,,N,0,,regular shake consumption and monitor,T2DR - Stoke and Staffordshire
+1784593,DM9,07/04/2025,S,07/04/2025,12,Vitamin D deficiency,,,N,,N,,N,,,,N,,,N,0,,Follow GP advice,T2DR - Stoke and Staffordshire
+1753108,DM9,10/07/2024,S,09/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Take pain killer, ensure to have enough fluid",T2DR - Stoke and Staffordshire
+1793810,DM9,03/03/2025,S,03/03/2025,12,tiredness,,,N,,N,,N,,,,N,,,N,0,,Monitor and seek medical review if needed.,T2DR - Stoke and Staffordshire
+1734869,DM9,20/08/2024,S,20/08/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Monitor BG, BP, consider reducing sweetener",T2DR - Stoke and Staffordshire
+1816157,DM9,17/10/2024,S,17/10/2024,15,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if needed",T2DR - Stoke and Staffordshire
+1921779,DM9,09/07/2025,S,08/07/2025,12,Nausea and diarrhoea,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1851791,DM9,10/03/2025,S,10/03/2025,14,,,,N,,N,,N,,,,N,,,N,0,,See GP.,T2DR - Stoke and Staffordshire
+1877122,DM9,10/03/2025,S,10/03/2025,12,abdominal pain,,,N,,N,,N,,,,Y,10/03/2025,,N,0,,"Stop TDR as unable to tolerate, see GP",T2DR - Stoke and Staffordshire
+1685441,DM9,23/07/2024,S,22/07/2024,12,Low blood pressure,,,N,,N,,L,23/07/2024,,,N,,,N,1,23/07/2024,Contacted GP,T2DR - Stoke and Staffordshire
+1888653,DM9,07/04/2025,A,29/03/2025,,,7,Hospitalised for high calcium levels,N,,N,,N,,,,N,,,N,0,,"given fluids, parathyroid gland removal surgery",T2DR - Stoke and Staffordshire
+1694114,DM9,07/02/2025,S,07/02/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1810832,DM9,16/01/2025,S,16/01/2025,12,A&E due to sprained ankle,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1907260,DM9,11/06/2025,S,10/06/2025,12,Bleeding gum,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1750656,DM9,28/11/2024,S,27/11/2024,12,Chronic tiredness,,,N,,N,,N,,,,N,,,N,0,,"Await blood result, increase carb intake",T2DR - Stoke and Staffordshire
+1779986,DM9,17/09/2024,S,16/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
+1750656,DM9,07/08/2024,S,07/08/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Try soup,T2DR - Stoke and Staffordshire
+1742496,DM9,30/08/2024,S,26/08/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1727481,DM9,02/07/2024,S,02/07/2024,4,,,,N,,N,,N,,,,N,,,N,0,,move slowly when getting up from sitting or lying,T2DR - Stoke and Staffordshire
+1810862,DM9,05/11/2024,S,05/11/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Hydrate, seek medical review if needed",T2DR - Stoke and Staffordshire
+1762372,DM9,03/10/2024,S,03/10/2024,12,Raised systolic and diastolic BP,,,N,,N,,H,03/10/2024,,,N,,,N,0,,Monitor,T2DR - Stoke and Staffordshire
+1924304,DM9,29/04/2025,S,29/04/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1789201,DM9,10/06/2025,S,10/06/2025,12,raised blood pressure,,,N,,N,,H,10/06/2025,,,N,,,N,2,10/06/2025,Inform GP for the 2nd time.,T2DR - Stoke and Staffordshire
+1712550,DM9,08/04/2025,S,08/04/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1648538,DM9,19/08/2024,S,17/08/2024,15,,,,N,,N,,N,,,,N,,,Y,0,,"Follow medical advice, on antibiotics",T2DR - Stoke and Staffordshire
+1877228,DM9,13/03/2025,S,13/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, fibre, seek medical review if needed.",T2DR - Stoke and Staffordshire
+1806866,DM9,23/01/2025,A,23/01/2025,,,7,hospital admission due to chest pain,N,,N,,N,,,,Y,23/01/2025,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1855389,DM9,12/02/2025,S,12/02/2025,12,"Diarrhoea, headache, palpitation",,,N,,N,,N,,,,Y,12/02/2025,,Y,0,,"Hydration, split TDR, monitor BG, stop TDR",T2DR - Stoke and Staffordshire
+1711580,DM9,11/11/2024,S,09/11/2024,12,Fracture,,,N,,N,,N,,,,N,,,N,0,,See fracture clinic,T2DR - Stoke and Staffordshire
+1712515,DM9,02/09/2024,S,30/08/2024,12,raised blood glucose,,,N,,Y,02/09/2024,N,,,,N,,,N,0,,"under GP care, await for blood test, on Gliclazide",T2DR - Stoke and Staffordshire
+1848671,DM9,13/03/2025,S,13/03/2025,12,Started talking gibberish / couldn't get her words,,,N,,N,,N,,,,N,,,N,0,,See GP,T2DR - Stoke and Staffordshire
+1753102,DM9,10/02/2025,S,10/02/2025,12,Diagnosed with stage 1 diabetic retinopathy.,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1762382,DM9,13/12/2024,S,13/12/2024,12,Had total knee replacement,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1771136,DM9,15/08/2024,S,15/08/2024,9,,,,N,,N,,N,,,,N,,,N,0,,See GP because this seems to be caused by tablets,T2DR - Stoke and Staffordshire
+1851801,DM9,07/08/2025,A,02/08/2025,,,7,A and & due to pain in upper back / shoulder,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1734869,DM9,19/05/2025,S,19/05/2025,12,"Removed the whole lobe, non-malignant",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,25/07/2025,S,24/07/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1784740,DM9,15/01/2025,S,15/01/2025,12,raised blood glucose,,,N,,Y,15/01/2025,N,,,,N,,,N,1,16/01/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1751437,DM9,25/09/2024,S,25/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor",T2DR - Stoke and Staffordshire
+1755572,DM9,23/09/2024,S,20/09/2024,12,Low diastolic BP,,,N,,N,,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1905485,DM9,22/07/2025,S,21/07/2025,12,Food poisoning,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1792875,DM9,20/12/2024,S,20/12/2024,12,"Dizziness, lightheaded and numbness",,,N,,N,,L,20/12/2024,,,N,,,N,1,20/12/2024,Informed GP,T2DR - Stoke and Staffordshire
+1916964,DM9,09/04/2025,S,09/04/2025,8,"adjust fibre if needed, monitor, seek medical revi",,,N,,N,,N,,,,N,,,N,0,,"adjust fibre, monitor, see GP if needed",T2DR - Stoke and Staffordshire
+1761541,DM9,06/08/2024,S,02/08/2024,12,head ache and change of bowel habits,,,N,,N,,N,,,,N,,,N,0,,hydration,T2DR - Stoke and Staffordshire
+1856143,DM9,31/03/2025,S,28/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1686296,DM9,03/12/2024,S,03/12/2024,12,Raised BP for the 2nd time,,,N,,N,,H,03/12/2024,,,N,,,N,3,03/12/2024,Inform GP,T2DR - Stoke and Staffordshire
+1727481,DM9,30/07/2024,S,30/07/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Ensured hydration and monitor BP and BG,T2DR - Stoke and Staffordshire
+1822685,DM9,05/12/2024,S,05/12/2024,7,,,,N,,N,,N,,,,N,,,N,0,,"monitor, see GP if worsen",T2DR - Stoke and Staffordshire
+1587550,DM9,02/11/2023,S,28/10/2023,8,,,,N,,N,,N,,,,Y,02/11/2023,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1921779,DM9,24/07/2025,S,23/07/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"Split shake, see GP if needed",T2DR - Stoke and Staffordshire
+1719408,DM9,10/07/2024,S,10/07/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Take pain killer, ensure to have enough fluid",T2DR - Stoke and Staffordshire
+1962029,DM9,26/08/2025,S,25/08/2025,12,BG 1.6 mmol/L,,,N,,N,,N,,,,N,,,Y,1,26/08/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1968210,DM9,27/08/2025,S,26/08/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1802739,DM9,06/11/2024,S,05/11/2024,12,"Pain in back of head, legs, sweaty, can't focus",,,N,,N,,N,,,,Y,06/11/2024,,Y,0,,See GP ASAP and stop TDR,T2DR - Stoke and Staffordshire
+1802739,DM9,24/02/2025,S,24/02/2025,12,Low BP,,,N,,N,,L,24/02/2025,,,N,,,N,4,25/02/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1802739,DM9,26/02/2025,A,22/02/2025,,,7,"back pain resulted in admission, cause unknown",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1802739,DM9,16/05/2025,S,16/05/2025,12,"Raised BG 16,9 for the 1st time",,,N,,N,,H,16/05/2025,,,N,,,N,0,,Monitor and repeat,T2DR - Stoke and Staffordshire
+1802739,DM9,04/06/2025,S,04/06/2025,12,Raised BG level,,,N,,Y,04/06/2025,N,,,,N,,,N,4,05/06/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1802739,DM9,14/07/2025,S,10/07/2025,12,Raised BG,,,N,,Y,14/07/2025,N,,,,N,,,N,4,14/07/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1802739,DM9,07/08/2025,S,07/08/2025,12,Low BP and low BG,,,N,,Y,15/08/2025,L,07/08/2025,,,N,,,Y,4,07/08/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1802739,DM9,26/08/2025,S,22/08/2025,12,Low BG and low BP,,,N,,Y,29/08/2025,L,26/08/2025,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1802739,DM9,15/08/2025,S,14/08/2025,12,Low BG,,,N,,Y,15/08/2025,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1882197,DM9,02/09/2025,S,01/09/2025,12,Anaemia,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1859549,DM9,02/09/2025,S,01/09/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1817335,DM9,17/10/2024,S,17/10/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Hydrate and monitor,T2DR - Stoke and Staffordshire
+1817335,DM9,22/10/2024,S,22/10/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
+1817335,DM9,11/11/2024,S,07/11/2024,12,possible appendicitis or ruptured cysts,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1817335,DM9,27/11/2024,S,26/11/2024,12,Hospitalisation due to flare-up PCOS,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1923551,DM9,03/09/2025,S,02/09/2025,12,Migraine,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1810832,DM9,03/09/2025,S,02/09/2025,12,Anxiety attack - work related,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1817335,DM9,03/09/2025,S,02/09/2025,12,Raised blood glucose > 20 mmol/L,,,N,,Y,02/09/2025,N,,,,N,,,N,1,03/09/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1987824,DM9,04/09/2025,S,03/09/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"monitor, consider splitting TDR",T2DR - Stoke and Staffordshire
+1866415,DM9,03/09/2025,S,03/09/2025,12,"hair loss, tired",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1989981,DM9,02/09/2025,S,01/09/2025,3,Hydration,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1848024,DM9,08/09/2025,S,08/09/2025,12,Fractured jaw,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1806866,DM9,08/09/2025,A,08/09/2025,,,7,"Had a bypass surgery in India in April 2025, disclosed this information on 08,09,2025",N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1908339,DM9,08/09/2025,S,08/09/2025,12,osteoporosis and a spinal scoliosis.,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1968210,DM9,10/09/2025,S,08/09/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1984638,DM9,10/09/2025,A,09/09/2025,,,7,hospitalisation due to  kidney stone,N,,N,,N,,,,Y,09/09/2025,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1949826,DM9,12/09/2025,S,11/09/2025,12,acute torticollis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1945848,DM9,12/09/2025,S,11/09/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1848019,DM9,15/09/2025,S,13/09/2025,12,Low BG 1.3 mmol/L,,,N,,Y,15/09/2025,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1904271,DM9,04/08/2025,S,04/08/2025,12,new diagnosis of arthritis,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1806847,DM9,19/09/2025,A,09/09/2025,,,7,A and E due to bad asthma,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,24/09/2025,S,23/09/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1967287,DM9,26/09/2025,S,25/09/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1921720,DM9,22/04/2025,S,17/04/2025,7,,,,N,,N,,N,,,,N,,,N,0,,monitor,T2DR - Stoke and Staffordshire
+1921720,DM9,03/09/2025,S,03/09/2025,12,"Weakness, lightheaded",,,N,,N,,L,03/09/2025,,,N,,,N,2,03/09/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1887296,DM9,29/09/2025,S,28/09/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1921720,DM9,01/10/2025,S,01/10/2025,12,Low BP,,,N,,N,,L,01/10/2025,,,N,,,N,2,01/10/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1945848,DM9,06/10/2025,S,26/09/2025,12,Hysterectomy,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1967287,DM9,07/10/2025,S,06/10/2025,8,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1987824,DM9,09/10/2025,S,09/10/2025,8,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1994833,DM9,13/10/2025,S,13/10/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1970244,DM9,25/09/2025,S,24/09/2025,12,Raised BP,,,N,,N,,H,25/09/2025,,,N,,,N,1,25/09/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1898509,DM9,15/10/2025,S,15/10/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2004742,DM9,16/10/2025,S,15/10/2025,12,Low BP,,,N,,N,,L,15/10/2025,,,N,,,N,0,,Monitor,T2DR - Stoke and Staffordshire
+1863605,DM9,31/10/2025,S,30/10/2025,12,Low BP,,,N,,N,,L,30/10/2025,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1945848,DM9,03/11/2025,S,03/11/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1984678,DM9,03/11/2025,S,31/10/2025,12,unexpected menstrual bleeding,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1873462,DM9,07/02/2025,S,07/02/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"hydration, split TDR into 8 and see GP if needed",T2DR - Stoke and Staffordshire
+1873462,DM9,04/03/2025,A,04/03/2025,,,7,"ery low BG ""Lo"" meaning below 0.5 mmol/L.",N,,Y,04/03/2025,N,,,,Y,04/03/2025,,Y,2,04/03/2025,Same day GP contact.,T2DR - Stoke and Staffordshire
+1873462,DM9,04/11/2025,S,03/11/2025,12,Low BP,,,N,,N,,L,03/11/2025,,,N,,,N,2,04/11/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1994825,DM9,05/11/2025,S,04/11/2025,12,Raised BG,,,N,,Y,04/11/2025,N,,,,N,,,N,1,05/11/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1856143,DM9,06/11/2025,S,05/11/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1888197,DM9,10/11/2025,S,09/11/2025,12,Raised BP,,,N,,N,,H,09/11/2025,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+1994825,DM9,12/11/2025,S,12/11/2025,12,Raised BG,,,N,,Y,12/11/2025,N,,,,N,,,N,0,,Inform GP.,T2DR - Stoke and Staffordshire
+2004742,DM9,12/11/2025,S,11/11/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, monitor and see GP if needed",T2DR - Stoke and Staffordshire
+1992609,DM9,14/11/2025,S,13/11/2025,12,vertigo,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1878022,DM9,19/11/2025,S,14/11/2025,15,,,,N,,N,,N,,,,N,,,N,0,,follow dr advise,T2DR - Stoke and Staffordshire
+1992609,DM9,27/11/2025,S,24/11/2025,12,Mouth and tongue swelling,,,N,,N,,N,,,,Y,27/11/2025,,Y,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1992609,DM9,27/11/2025,A,23/11/2025,,,7,Member reported feeling like self-harming,N,,N,,N,,,,Y,27/11/2025,,Y,0,,Coach offered to contact the emergency service but the member declined. Further signposting shared.,T2DR - Stoke and Staffordshire
+1992609,DM9,27/11/2025,S,24/11/2025,12,vertigo and blackout,,,N,,N,,N,,,,Y,27/11/2025,,Y,0,,Seek medical advice,T2DR - Stoke and Staffordshire
+1840730,DM9,03/12/2025,S,26/11/2025,8,,,,N,,N,,N,,,,N,,,N,0,,Already feeling better,T2DR - Stoke and Staffordshire
+1887296,DM9,10/12/2025,S,10/12/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Already finished course of antibiotics,T2DR - Stoke and Staffordshire
+1888210,DM9,15/12/2025,S,08/12/2025,12,Food poisoning,,,N,,N,,N,,,,N,,,N,0,,Better now,T2DR - Stoke and Staffordshire
+1878022,DM9,21/11/2025,S,20/11/2025,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2042339,DM9,22/12/2025,S,20/12/2025,3,,,,N,,N,,N,,,,N,,,N,0,,hydration and monitor,T2DR - Stoke and Staffordshire
+1945835,DM9,07/10/2025,S,06/10/2025,12,raised blood pressure,,,N,,N,,H,07/10/2025,,,N,,,N,2,07/10/2025,Inform GP.,T2DR - Stoke and Staffordshire
+1947252,DM9,05/01/2026,S,24/12/2025,8,,,,Y,05/01/2026,N,,N,,,,N,,,N,0,,Seeing GP in a few days,T2DR - Stoke and Staffordshire
+1844490,DM9,06/01/2026,A,24/12/2025,,,7,"burst appendix member in hospital 15th-24th December, currently recovering at home",N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2048473,DM9,07/01/2026,S,06/01/2026,7,,,,N,,N,,N,,,,N,,,N,0,,Try split TDR,T2DR - Stoke and Staffordshire
+2048473,DM9,09/01/2026,S,09/01/2026,12,Diarrhoea and being sick,,,N,,N,,N,,,,N,,,N,0,,"splitting TDR, check the intake of artificial sweetener, hydrate, see medical review if continues",T2DR - Stoke and Staffordshire
+1970244,DM9,09/01/2026,S,09/01/2026,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1905485,DM9,13/01/2026,S,12/01/2026,9,,,,N,,N,,N,,,,N,,,N,0,,"splitting TDR, seek medical review if needed",T2DR - Stoke and Staffordshire
+2030624,DM9,16/01/2026,S,14/01/2026,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, and ensure fibre intake",T2DR - Stoke and Staffordshire
+1945835,DM9,29/12/2025,S,23/12/2025,12,Elevated BP,,,N,,N,,H,23/12/2025,,,N,,,N,2,29/12/2025,Notified GP,T2DR - Stoke and Staffordshire
+2042323,DM9,07/01/2026,S,05/01/2026,12,Low BP,,,N,,N,,L,05/01/2026,,,N,,,N,1,07/01/2026,Inform GP,T2DR - Stoke and Staffordshire
+2030624,DM9,21/01/2026,S,21/01/2026,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice since member taking sufficient fluid and fibre,T2DR - Stoke and Staffordshire
+2025459,DM9,23/01/2026,S,22/01/2026,1,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice since member taking sufficient fluid and fibre,T2DR - Stoke and Staffordshire
+2047628,DM9,29/01/2026,S,28/01/2026,12,"headache, nausea and vomiting",,,N,,N,,N,,,,N,,,N,0,,"assure hydration, consider split TDR, seek medical review if persists or worsen",T2DR - Stoke and Staffordshire
+2048445,DM9,02/02/2026,A,30/01/2026,,,7,"Hospitalisation due to pneumonia, on antibiotics and steroid",N,,N,,N,,,,Y,02/02/2026,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2022506,DM9,02/02/2026,S,30/01/2026,3,,,,N,,N,,N,,,,N,,,N,0,,"good hydration, seek medical review if needed",T2DR - Stoke and Staffordshire
+2025450,DM9,03/02/2026,S,02/02/2026,9,,,,N,,N,,N,,,,N,,,N,0,,"has GP appt 04 FEB, follow medical advice",T2DR - Stoke and Staffordshire
+2062288,DM9,03/02/2026,S,02/02/2026,7,,,,N,,N,,N,,,,N,,,N,0,,"Consider splitting TDR, monitor",T2DR - Stoke and Staffordshire
+2030624,DM9,04/02/2026,S,03/02/2026,1,,,,N,,N,,N,,,,N,,,N,0,,"hydration, fibre if persist, seek medical review",T2DR - Stoke and Staffordshire
+2052769,DM9,04/02/2026,S,04/02/2026,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+1921672,DM9,09/02/2026,A,21/01/2026,,,7,Back operation,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2033137,DM9,23/02/2026,S,22/02/2026,12,Low BP,,,N,,N,,L,23/02/2026,,,N,,,N,1,23/02/2026,To inform GP,T2DR - Stoke and Staffordshire
+2052769,DM9,23/02/2026,S,23/02/2026,1,,,,N,,N,,N,,,,N,,,N,0,,"Ensure a good hydration, encouraged to take fibre.",T2DR - Stoke and Staffordshire
+2078962,DM9,26/02/2026,S,26/02/2026,13,,,,Y,26/02/2026,N,,N,,,,N,,,N,0,,"Try soup, split TDR, ensure hydration",T2DR - Stoke and Staffordshire
+2014008,DM9,03/03/2026,S,02/03/2026,13,,,,N,,N,,N,,,,N,,,N,0,,Seek medical advice if needed,T2DR - Stoke and Staffordshire
+2053487,DM9,09/03/2026,S,08/03/2026,12,Low BP,,,N,,N,,L,08/03/2026,,,N,,,N,1,09/03/2026,Inform GP,T2DR - Stoke and Staffordshire
+2077770,DM9,10/03/2026,S,09/03/2026,12,"Low mood, anxiety and headaches",,,N,,N,,N,,,,N,,,N,0,,Seek GP review and contact emergency if needed,T2DR - Stoke and Staffordshire
+1902591,DM9,12/03/2026,A,12/03/2026,,,7,A and E due to chest pain,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2080766,DM9,13/03/2026,S,13/03/2026,1,,,,N,,N,,N,,,,N,,,N,0,,Increase fibre intake,T2DR - Stoke and Staffordshire
+1925532,DM9,16/03/2026,A,14/03/2026,,,7,"Walk in hospital due to back issue, same day discharge",N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2078962,DM9,18/03/2026,S,17/03/2026,3,,,,N,,N,,N,,,,N,,,N,0,,Hydration and seek medical review if worsens or continues,T2DR - Stoke and Staffordshire
+1989981,DM9,19/03/2026,A,08/03/2026,,,7,Sever constipation resulted in A and E,N,,N,,N,,,,N,,,Y,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2003361,DM9,31/03/2026,S,27/03/2026,12,"Had haemorrhoids after gave birth to son, prolapse",,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2003361,DM9,31/03/2026,S,31/03/2026,12,Osteoarthritis in both hips,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2071132,DM9,01/04/2026,S,31/03/2026,12,diarrhoea and headache,,,N,,N,,N,,,,N,,,N,0,,"hydration, consider split TDR",T2DR - Stoke and Staffordshire
+1917887,DM9,08/04/2025,S,08/04/2025,12,"ankle is really sore, stiff",,,N,,N,,N,,,,N,,,N,0,,Seek medical review,T2DR - Stoke and Staffordshire
+2014008,DM9,20/03/2026,S,20/03/2026,4,,,,N,,N,,N,,,,N,,,Y,0,,Monitor,T2DR - Stoke and Staffordshire
+2062288,DM9,02/04/2026,A,31/03/2026,,,7,viral gastroenteritis,N,,N,,N,,,,N,,,N,0,,signposted to GP,T2DR - Stoke and Staffordshire
+2082796,DM9,23/04/2026,S,23/04/2026,12,Hospital Admission Due to Analgesic Withdrawal,,,N,,N,,N,,,,N,,,Y,0,,NA,T2DR - Stoke and Staffordshire
+2106041,DM9,28/05/2026,S,28/05/2026,15,,,,N,,N,,N,,,,N,,,Y,0,,Nil,T2DR - Stoke and Staffordshire
+2001075,DM9,11/03/2026,S,10/03/2026,12,Low BP,,,N,,N,,L,11/03/2026,,,N,,,N,0,,Inform GP,T2DR - Stoke and Staffordshire
+2071728,DM9,22/04/2026,S,22/04/2026,12,Restless Legs Syndrome,,,N,,N,,N,,,,N,,,Y,0,,Supplemented with magnesium,T2DR - Stoke and Staffordshire
+2086955,DM9,20/05/2026,S,20/05/2026,8,,,,Y,20/05/2026,N,,N,,,,N,,,Y,0,,Advice provided,T2DR - Stoke and Staffordshire
+1958391,DM9,15/06/2026,S,14/06/2026,15,,,,N,,N,,N,,,,N,,,N,0,,Follow medical advice,T2DR - Stoke and Staffordshire
+2001075,DM9,23/06/2026,S,29/05/2026,12,Hypotension,,,Y,01/06/2026,N,,L,27/05/2026,,,N,,,Y,1,29/05/2026,Informed GP,T2DR - Stoke and Staffordshire
+2022506,DM9,08/06/2026,S,05/06/2026,12,Hypotension,,,Y,08/06/2026,N,,L,08/06/2026,,,N,,,Y,1,08/06/2026,Notification sent to GP,T2DR - Stoke and Staffordshire
+2086955,DM9,05/06/2026,S,31/05/2026,12,Hypertension,,,Y,05/06/2026,N,,H,31/05/2026,,,N,,,Y,1,05/06/2026,GP notified,T2DR - Stoke and Staffordshire
+2024932,DM9,29/06/2026,S,10/06/2026,12,Knee operation,,,Y,29/06/2026,N,,N,,,,N,,,Y,0,,Following medical advice,T2DR - Stoke and Staffordshire
+2106771,DM9,05/06/2026,S,02/06/2026,12,Hypertension,,,Y,05/06/2026,N,,H,02/06/2026,,,N,,,Y,2,05/06/2026,GP notified,T2DR - Stoke and Staffordshire
+2106771,DM9,30/06/2026,S,01/06/2026,12,Hyperglycemia,,,Y,30/06/2026,Y,01/06/2026,N,,,,N,,,Y,2,30/06/2026,Notification to GP,T2DR - Stoke and Staffordshire
+1917887,DM9,19/06/2025,S,19/06/2025,12,"scheduled shoulder surgery, day admission",,,N,,N,,N,,,,N,,,N,0,,"one day of food, med team happy to cont shakes",T2DR - Stoke and Staffordshire
+1994833,DM9,20/07/2026,S,20/07/2026,12,Colitis flare-up,,,N,,N,,N,,,,N,,,Y,0,,GP aware and restarted steroids,T2DR - Stoke and Staffordshire
+2127153,DM9,30/07/2026,S,30/07/2026,4,,,,Y,30/07/2026,N,,N,,,,N,,,Y,0,,Review with GP,T2DR - Stoke and Staffordshire
+2147952,DM9,18/08/2026,A,31/07/2026,,,7,Gout,Y,18/08/2026,N,,N,,,,N,,,Y,0,,"No changes to programme, advice to increase fluids.",T2DR - Stoke and Staffordshire
+1917887,DM9,15/12/2025,S,15/12/2025,12,Watch indicated risk of atrial fibrillation,,,N,,N,,N,,,,N,,,N,0,,Review with doctor,T2DR - Stoke and Staffordshire
+2078969,DM9,09/06/2026,S,04/06/2026,12,Injury- was injured from child,,,Y,09/06/2026,N,,N,,,,Y,04/06/2026,,Y,0,,Attended A+E,T2DR - Stoke and Staffordshire
+2125386,DM9,30/06/2026,S,30/06/2026,12,Low HR,,,Y,30/06/2026,N,,N,,,,N,,,Y,0,,signposted to GP,T2DR - Stoke and Staffordshire
+1603658,DM9,12/01/2024,S,12/01/2024,8,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+1603658,DM9,19/01/2024,S,01/12/2023,8,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+1603658,DM9,09/02/2024,S,09/02/2024,3,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+1603658,DM9,05/04/2024,S,05/04/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Alternating constipation and diarrhoea - advised to monitor and seek medical advice if concerned.,T2DR - Stoke and Staffordshire
+1603658,DM9,31/05/2024,S,12/05/2024,1,,,,N,,N,,N,,,,N,,,N,0,,PT advised to ensure adequate water consumption as they thought that may be the cause as no longer on TDR,T2DR - Stoke and Staffordshire
+1625088,DM9,02/02/2024,S,29/01/2024,1,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+1625088,DM9,09/02/2024,S,29/01/2024,1,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+1625088,DM9,01/03/2024,S,12/01/2024,12,Increase in sleep apnoea episodes,,,N,,N,,N,,,,N,,,N,0,,"PT already visiting sleep clinic in hospital to investigate. PT is feeling well and not tired, just noticed change on phone app. Being reviewed by doctor soon.",T2DR - Stoke and Staffordshire
+1625088,DM9,05/04/2024,S,05/04/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common with food reintroduction but to continue monitoring.,T2DR - Stoke and Staffordshire
+1636758,DM9,19/03/2024,S,19/03/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Has been having the odd dizzy spell. Advised to call 111 if seriously unwell.,T2DR - Stoke and Staffordshire
+1641162,DM9,30/01/2024,S,23/01/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"Continued dizziness when bending down, and fluctuation between constipation and diarrhoea. Advised to refer to side effects sheet and call 111 if feeling seriously unwell",T2DR - Stoke and Staffordshire
+1641162,DM9,20/02/2024,S,20/02/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"Told to monitor his situation, tell others where he's going/what he's doing, call 111 if feeling seriously unwell",T2DR - Stoke and Staffordshire
+1641162,DM9,05/03/2024,S,16/01/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to call 111 if feeling seriously unwell and refer to the side effects info sheet provided.,T2DR - Stoke and Staffordshire
+1641162,DM9,17/09/2024,S,16/09/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1641162,DM9,24/09/2024,S,23/09/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1641162,DM9,01/10/2024,S,27/09/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1642120,DM9,13/02/2024,S,10/02/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Emailed side effects info sheet and told to call 111 if feeling seriously unwell. Suggested to keep TDR meals as regular as possible to keep blood glucose levels more stable throughout the day.,T2DR - Stoke and Staffordshire
+1642120,DM9,20/02/2024,S,20/02/2024,4,,,,N,,N,,N,,,,N,,,N,0,,"Reiterated to call 111 if feeling seriously unwell, and reference the side effect info sheet provided.",T2DR - Stoke and Staffordshire
+1642120,DM9,19/03/2024,S,19/03/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Continued to have dizzy spells doing day-to-day activities. Has also started lifting weights at the gym. Have advised against this in TDR phase. Told to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1642120,DM9,03/09/2024,S,03/09/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Daily bouts of minor dizziness and dry mouth. Advised to monitor and call 111 if symptoms worsen.,T2DR - Stoke and Staffordshire
+1642120,DM9,10/09/2024,S,08/09/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1642120,DM9,17/09/2024,S,16/09/2024,5,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1642120,DM9,15/10/2024,S,08/10/2024,12,Back pain,,,N,,N,,N,,,,N,,,N,0,,Back injury. PT is taking strong painkillers. Advised to monitor and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1642120,DM9,14/01/2025,S,14/01/2025,14,,,,N,,N,,N,,,,N,,,N,0,,PT experienced severe itching/thrush alongside elevated glucose readings. Symptoms have since cleared up. Advised to monitor condition and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1643071,DM9,01/03/2024,S,01/03/2024,13,,,,N,,N,,N,,,,N,,,N,0,,Stomach ache - Advised to see doctor if problem persists,T2DR - Stoke and Staffordshire
+1646941,DM9,26/03/2024,S,26/03/2024,1,,,,N,,N,,N,,,,N,,,N,0,,PT has been taking Senokot alongside Altrafibre for constipation. Bowel habits have now returned to normal.,T2DR - Stoke and Staffordshire
+1651491,DM9,11/04/2024,S,11/04/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Acute diarrhoea daily since starting TDR. Advised to take Altrafibre twice per day and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1656421,DM9,05/04/2024,S,05/04/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor if concerned,T2DR - Stoke and Staffordshire
+1656691,DM9,05/04/2024,S,05/04/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to ensure regular consumption of fibre supplement and seek medical attention if problem persists,T2DR - Stoke and Staffordshire
+1656691,DM9,12/04/2024,S,12/04/2024,12,Pain in both sides,,,N,,N,,N,,,,N,,,N,0,,Pain in sides - thought due to known gall stones - PT will see GP. Also constipation - advised this is common side effect but to speak to GP if concerned.,T2DR - Stoke and Staffordshire
+1656691,DM9,26/04/2024,S,26/04/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Fairly severe constipation - PT has already had advice from doctor,T2DR - Stoke and Staffordshire
+1656704,DM9,12/09/2024,S,12/09/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1656704,DM9,19/09/2024,S,19/09/2024,9,,,,N,,N,,N,,,,N,,,N,0,,Experiencing bloating and flatulence. Advised to monitor and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1656704,DM9,21/11/2024,S,21/11/2024,15,,,,N,,N,,N,,,,N,,,N,0,,PT is experiencing ongoing sciatica pain and gout. Advised her to contact GP or call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1656704,DM9,19/12/2024,S,19/12/2024,8,,,,N,,N,,N,,,,N,,,N,0,,PT thinks she may have IBS. I suggested some lifestyle/dietary changes. Advised PT to monitor condition and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1656704,DM9,16/01/2025,S,16/01/2025,15,,,,N,,N,,N,,,,N,,,N,0,,PT has had norovirus. Advised to call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1657864,DM9,28/02/2024,S,20/02/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Recommended reading side effects info sheet and to call 111 if feeling seriously unwell,T2DR - Stoke and Staffordshire
+1657864,DM9,10/04/2024,S,10/04/2024,12,n/a,,,N,,N,,N,,,,N,,,N,0,,Isolated incident of palpitations. Returned to normal fairly quickly. Advised to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1657864,DM9,11/09/2024,S,11/09/2024,15,,,,N,,N,,N,,,,N,,,N,0,,Chronic sinusitis and ear infection. Advised to continue GP treatment and call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1657864,DM9,04/12/2024,S,20/11/2024,12,Thrush,,,N,,N,,N,,,,N,,,N,0,,"Glucose reading increased to 23 mmol, but has since come back down. Developed thrush - medication has cleared it up. Advised to monitor symptoms and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1658888,DM9,16/05/2024,S,12/05/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Have advised to monitor and call 111 if seriously unwell.,T2DR - Stoke and Staffordshire
+1658909,DM9,13/03/2024,S,10/03/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Recommended reading the side effects info sheet and calling 111 if feeling seriously unwell,T2DR - Stoke and Staffordshire
+1658909,DM9,10/04/2024,S,09/04/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Dizziness lasting for a few hours. Advised her to call 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1658909,DM9,25/09/2024,S,24/09/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1658909,DM9,02/10/2024,S,02/10/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1658909,DM9,08/01/2025,S,08/01/2025,12,Blood Glucose,,,N,,N,,N,,,,N,,,N,0,,Recent glucose measurement taken by GP was over 25. Advised to monitor and call 111 or GP if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1658940,DM9,04/04/2024,S,04/04/2024,12,Raised BP,,,N,,N,,H,04/04/2024,,,N,,,N,0,,Advised that BP is raised and may need to see doctor if not reduced next week,T2DR - Stoke and Staffordshire
+1658940,DM9,09/05/2024,S,09/05/2024,7,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor is concerned. Also experiencing bleeding gums.,T2DR - Stoke and Staffordshire
+1658940,DM9,06/06/2024,S,06/06/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised this is common side effect but see doctor if concerned,T2DR - Stoke and Staffordshire
+1658940,DM9,27/06/2024,S,27/06/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to speak to pharmacist,T2DR - Stoke and Staffordshire
+1668739,DM9,11/03/2024,S,06/03/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Advised to see doctor if problem persists,T2DR - Stoke and Staffordshire
+1668739,DM9,18/03/2024,S,18/03/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Diarrhoea has persisted since start of TDR but starting to improve - advised to see doctor if concerned.,T2DR - Stoke and Staffordshire
+1684115,DM9,21/05/2024,S,17/05/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common side effect but check with doctor if concerned.,T2DR - Stoke and Staffordshire
+1684115,DM9,14/10/2024,S,14/10/2024,12,Blood Pressure,,,N,,N,,N,14/10/2024,,,N,,,N,0,,"Advised to speak to GP asap, PT confirmed they will do so.",T2DR - Stoke and Staffordshire
+1684115,DM9,05/12/2024,A,05/12/2024,,,7,BP reading,N,,N,,N,,,,N,,,N,0,,Advised to call GP as soon as possible ,T2DR - Stoke and Staffordshire
+1684115,DM9,09/01/2025,A,09/01/2025,,,7,High BP,N,,N,,N,,,,N,,,N,0,,Has GP appointment tomorrow. BP reading 181/88,T2DR - Stoke and Staffordshire
+1686625,DM9,22/05/2024,S,20/05/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised this is common side effect likely to subside but to see doctor if concerned.,T2DR - Stoke and Staffordshire
+1686625,DM9,29/05/2024,S,29/05/2024,1,,,,N,,N,,N,,,,N,,,N,0,,"Advised that this is normal side effect and to ensure adequate water and fibre intake, but speak to doctor if concerned",T2DR - Stoke and Staffordshire
+1686625,DM9,05/06/2024,S,05/06/2024,1,,,,N,,N,,N,,,,N,,,N,0,,"Still experiencing constipation, advised this is common but to see doctor if concerned",T2DR - Stoke and Staffordshire
+1686625,DM9,19/06/2024,S,19/06/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Still experiencing constipation - has spoken to doctor and advised to continue drinking plenty of water,T2DR - Stoke and Staffordshire
+1686625,DM9,06/02/2025,S,06/02/2025,12,1,,,N,,N,,N,,,,N,,,N,0,,PT suffering from arthritis/swollen feet. Advised to monitor symptoms and call GP or 111 if concerned.,T2DR - Stoke and Staffordshire
+1686625,DM9,27/03/2025,S,27/03/2025,12,1,,,N,,N,,N,,,,N,,,N,0,,PT is recovering from a chest infection alongside fasting for ramadan. Advised to monitor symptoms and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1686625,DM9,24/04/2025,A,24/04/2025,,,7,Blood Glucose at 15.2,N,,Y,24/04/2025,N,,,,N,,,N,0,,Blood glucose at 15.2.  Discussed with PT that they need to call their GP today and make an appointment.  PT to retake BG in 2 hours and text results.,T2DR - Stoke and Staffordshire
+1686762,DM9,19/03/2025,S,19/03/2025,12,1,,,N,,N,,N,,,,N,,,N,0,,"PT glucose reading lower than average upon waking. Felt sleepier than usual, but more normal after breakfast. Advised to call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1697197,DM9,09/04/2024,S,09/04/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised that headaches are common side effect likely to subside but to seek medical advice if concerned.,T2DR - Stoke and Staffordshire
+1697197,DM9,16/04/2024,S,16/04/2024,3,,,,N,,N,,N,,,,N,,,N,0,,"Improved since first week, advised to ensure plenty of fluid intake",T2DR - Stoke and Staffordshire
+1704558,DM9,21/05/2024,S,17/05/2024,8,,,,N,,N,,N,,,,N,,,N,0,,Advised that this is common side effect but see doctor if concerned,T2DR - Stoke and Staffordshire
+1714217,DM9,11/10/2024,S,11/10/2024,12,Blood pressure,,,N,,N,,H,11/10/2024,,,N,,,N,0,,Advised PT must see GP (has appointment on 16th),T2DR - Stoke and Staffordshire
+1714217,DM9,08/11/2024,A,08/11/2024,,,7,Blood Pressure,N,,N,,N,,,,N,,,N,0,,BP is high 2nd session in a row. Does have GP Appointment 14th of November. ,T2DR - Stoke and Staffordshire
+1714217,DM9,08/01/2025,S,08/01/2025,12,Blood pressure,,Blood pressure,N,,N,,N,,,,N,,,N,0,,seen GP and switching tablets ,T2DR - Stoke and Staffordshire
+1744296,DM9,02/10/2024,S,02/10/2024,12,anxiety,,,N,,N,,N,,,,N,,,N,0,,PT is experiencing intense anxiety. Has started on anxiety medication. Advised to monitor and call her GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1762399,DM9,02/10/2024,S,01/10/2024,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1762399,DM9,10/10/2024,S,09/10/2024,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1762399,DM9,24/10/2024,S,23/10/2024,9,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1762399,DM9,14/01/2025,S,14/01/2025,12,stubborn chest infection,,,N,,N,,N,,,,N,,,N,0,,PT suffering with a stubborn chest infection which is affecting her physical activity levels. Advised to monitor condition and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1762399,DM9,28/08/2025,S,28/08/2025,12,High BP,,,N,,N,,N,,,,N,,,N,0,,"PT has been rushing around before appointment, running late",T2DR - Stoke and Staffordshire
+1778950,DM9,08/10/2024,S,06/10/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1778950,DM9,17/10/2024,S,12/10/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Advised to monitor his condition and call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1778950,DM9,15/07/2025,S,15/07/2025,12,High BP - medication change,,,N,,N,,N,15/07/2025,,,N,,,N,0,,Had medication changed by GP and very high BP. Asked to go straight to the GP practice - already had new BP tablets to pick up,T2DR - Stoke and Staffordshire
+1778950,DM9,12/08/2025,S,12/08/2025,12,High BP. Sent straight to GP. Felt fine.,,,N,,N,,N,12/08/2025,,,N,,,N,0,,Sent PT straight to his GP. Under medication review had new BP meds in last few weeks. ,T2DR - Stoke and Staffordshire
+1789214,DM9,04/11/2024,S,03/11/2024,4,,,,N,,N,,N,,,,N,,,N,0,,monitor and see GP if worse ,T2DR - Stoke and Staffordshire
+1789214,DM9,11/11/2024,S,07/11/2024,4,,,,N,,N,,N,,,,N,,,N,0,,getting better - see GP if continue ,T2DR - Stoke and Staffordshire
+1799127,DM9,19/11/2024,S,16/11/2024,3,,,,N,,N,,N,,,,N,,,N,0,,Advised PT to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1799127,DM9,10/12/2024,S,10/12/2024,4,,,,N,,N,,N,,,,N,,,N,0,,Has had a few episodes of lightheadedness. Advised to monitor condition and call GP or 111 if feeling seriously unwell.,T2DR - Stoke and Staffordshire
+1799127,DM9,12/05/2025,S,12/05/2025,3,,,,N,,N,,N,,,,N,,,N,0,,PT had a few headaches when driving and then eaten high sugar foods to combat. advised to take blood glucose reading to see if low before eating sugar - talked about cravings. ,T2DR - Stoke and Staffordshire
+1801806,DM9,14/11/2024,S,14/11/2024,7,,,,N,,N,,N,,,,N,,,N,0,,PT has experienced nausea and vomiting in the mornings for two consecutive days. Advised her to contact GP immediately or call 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1809713,DM9,26/11/2024,S,18/11/2024,12,Gout,,,N,,N,,N,,,,N,,,N,0,,Seen GP,T2DR - Stoke and Staffordshire
+1809713,DM9,14/01/2025,S,12/01/2025,9,,,,N,,N,,N,,,,N,,,N,0,,Seeing GP,T2DR - Stoke and Staffordshire
+1821285,DM9,12/11/2024,S,11/11/2024,4,,,,N,,N,,N,,,,N,,,N,0,,See GP if worse ,T2DR - Stoke and Staffordshire
+1830448,DM9,26/11/2024,S,18/11/2024,1,,,,N,,N,,N,,,,N,,,N,0,,Got better - see GP if gets worse again,T2DR - Stoke and Staffordshire
+1842690,DM9,13/02/2025,S,05/02/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Advised it is a side effect if worse see GP,T2DR - Stoke and Staffordshire
+1859531,DM9,23/01/2025,S,23/01/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"Suggested to increase fluid intake, to monitor condition and to call GP/111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1859531,DM9,30/01/2025,S,30/01/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Experiencing occasional headaches/dizziness. Has bought sugar-free isotonic drinks which have helped. Advised to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1859531,DM9,13/02/2025,S,13/02/2025,3,,,,N,,N,,N,,,,N,,,N,0,,PT still having the occasional headache. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1859531,DM9,27/02/2025,S,27/02/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"PT has had occasional headaches, but hasn't always managed to have four TDR daily. Advised to monitor and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1859531,DM9,13/03/2025,S,13/03/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"PT thinks he experienced a hypo episode. Symptoms - pins & needles, severe headache, elevated heart rate, pain in shoulders. Advised to monitor symptoms and call 111/999 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1859535,DM9,27/02/2025,S,27/02/2025,1,,,,N,,N,,N,,,,N,,,N,0,,PT has experienced severe constipation which has now eased. Altrafibre did not help but increasing hydration did. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1859535,DM9,13/03/2025,S,13/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"Advised to increase fluid intake, have regular altrafibre intake, monitor symptoms and call GP or 111 if feeling seriously ill.",T2DR - Stoke and Staffordshire
+1868628,DM9,25/02/2025,S,25/02/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Has been having constant headaches that started before TDR. GP thinks it's related to changes in BP medication. Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1868628,DM9,04/03/2025,S,04/03/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Continued to have headaches. Thinks it might be his new BP meds and cutting out caffeine. Advised to refer to side effects information sheet and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1868628,DM9,25/03/2025,S,25/03/2025,13,,,,N,,N,,N,,,,N,,,N,0,,Griping pains and discomfort from churning stomach. Advised to monitor and call GP/111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1869669,DM9,11/03/2025,S,11/03/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Episodes of feeling lightheaded but increased fluid intake has helped. Advised to monitor symptom and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1869669,DM9,11/12/2025,S,11/12/2025,14,,,,N,,N,,N,,,,N,,,N,0,,"PT suspected keto rash, apparently had for few weeks but didn't mention before. I sceptical as not fully complied, advice to see GP if doesn't improve after re-intro of food.",T2DR - Stoke and Staffordshire
+1872490,DM9,11/03/2025,S,11/03/2025,11,,,,N,,N,,N,,,,N,,,N,0,,PT experiencing slight short-sightedness before and during TDR. Is arranging for an eye test. Advised to call GP or 111 if feeling concerned.,T2DR - Stoke and Staffordshire
+1872505,DM9,04/03/2025,S,04/03/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Headaches and slight dizziness. Advised to call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1872505,DM9,11/03/2025,S,11/03/2025,1,,,,N,,N,,N,,,,N,,,N,0,,PT had constipation but symptoms have improved. Ate a small amount of food which helped and is now taking altrafibre daily. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1873401,DM9,25/02/2025,S,25/02/2025,3,,,,N,,N,,N,,,,N,,,N,0,,PT has had slight headaches at times. Advised to monitor and call GP or 111 if feeling seriously ill.,T2DR - Stoke and Staffordshire
+1873401,DM9,05/06/2025,S,05/06/2025,12,"Right kidney pain, not shake related",,,N,,N,,N,,,,N,,,N,0,,Will be going to the GP Monday to be checked,T2DR - Stoke and Staffordshire
+1886330,DM9,28/04/2025,S,28/04/2025,12,BG,,,N,,Y,28/04/2025,N,,,,N,,,N,0,,Asked PT to retake BG in 90mins and advised to talk to GP if still elevated.,T2DR - Stoke and Staffordshire
+1886330,DM9,11/08/2025,S,11/08/2025,12,High BP.  Very stressed & hungover,,,N,,Y,11/08/2025,N,,,,N,,,N,0,,Find time to sit and relax and de-stress. Husband was with him. No dizziness or light headedness,T2DR - Stoke and Staffordshire
+1908420,DM9,28/04/2025,S,28/04/2025,12,BP,,,N,,N,,N,,,,N,,,N,0,,"Discussed BP with PT. On medication, not highest it's been recently. Building work at home, stressed, GP reviewed medication last week.  Will not increase due to starting this program. R/V 2 wks.",T2DR - Stoke and Staffordshire
+1916978,DM9,06/06/2025,S,06/06/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"PT to monitor, drink fluids, take fibre, and electrolytes if needed",T2DR - Stoke and Staffordshire
+1916978,DM9,08/08/2025,S,04/08/2025,4,,,,N,,N,,N,,,,N,,,N,0,,slight dehydration and large weight loss.,T2DR - Stoke and Staffordshire
+1931137,DM9,28/05/2025,S,28/05/2025,12,Blood Pressure,,,N,,N,,N,,,,N,,,N,0,,162/88,T2DR - Stoke and Staffordshire
+1931137,DM9,20/08/2025,S,20/08/2025,12,BP,,,N,,N,,N,,,,N,,,N,0,,asked to retake BP after she had settled,T2DR - Stoke and Staffordshire
+1931137,DM9,03/09/2025,S,03/09/2025,12,low BP,,,N,,N,,N,,,,N,,,N,0,,Asked PT to retake this and also asked for an up to date BP medication list. Advised PT they may need a medication review.,T2DR - Stoke and Staffordshire
+1932698,DM9,17/07/2025,S,17/07/2025,12,Low Blood Pressure,,,N,,N,,N,,,,N,,,N,0,,second reading was 102/65.  Low for PT. asked PT to take it at home in the next few hours and then get in touch with GP for a medication review.  On 2 types of BP pills.,T2DR - Stoke and Staffordshire
+1937618,DM9,06/06/2025,S,30/05/2025,13,,,,N,,N,,N,,,,N,,,N,0,,stopped the shakes and recovered. and now just taking 2 shakes a day plus 1 healthy meal.,T2DR - Stoke and Staffordshire
+1947261,DM9,26/06/2025,S,26/06/2025,3,,,,N,,N,,N,,,,N,,,N,0,,"Headaches most days, has just started drinking 1.5l of water a day (started yesterday).  Going to see if water helps. Advised to talk to GP if continues or gets worse.",T2DR - Stoke and Staffordshire
+1947261,DM9,07/08/2025,S,07/08/2025,12,BP,,,N,,N,,N,,,,N,,,N,0,,Told to increase medication after 1 week. Going to monitor BP at home and also going back to the GP in 3 weeks to check.  Has bad back and in pain which is making BP high.,T2DR - Stoke and Staffordshire
+1954330,DM9,04/07/2025,S,30/06/2025,8,,,,N,,N,,N,,,,N,,,N,0,,PT has requested to be removed from the programme due to this ,T2DR - Stoke and Staffordshire
+1965732,DM9,01/08/2025,S,30/07/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Monitor and contact GP if worse,T2DR - Stoke and Staffordshire
+1969288,DM9,01/08/2025,S,28/07/2025,3,,,,N,,N,,N,,,,N,,,N,0,,monitor and see GP if worse ,T2DR - Stoke and Staffordshire
+1969302,DM9,20/11/2025,S,06/11/2025,6,,,,N,,N,,N,,,,Y,20/11/2025,,N,0,,Said is not linked to TDR as is her depression and missing some meds for mental health without informing doctor. She is going to go and pick up some more medication that she has on prescription.,T2DR - Stoke and Staffordshire
+1969949,DM9,04/07/2025,S,29/06/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Monitor and see GP if gets worse.,T2DR - Stoke and Staffordshire
+1979708,DM9,22/08/2025,S,11/08/2025,1,,,,N,,N,,N,,,,N,,,N,0,,"Constipated going once every two days, having fibre twice a day. Will try a fibre in the middle of the day as well. Is drinking 4 litres of water a aday",T2DR - Stoke and Staffordshire
+1981655,DM9,13/10/2025,S,03/10/2025,8,,,,N,,N,,N,,,,N,,,N,0,,"One episode, but back to normal following day",T2DR - Stoke and Staffordshire
+1985106,DM9,07/11/2025,S,07/11/2025,10,,,,N,,N,,N,,,,N,,,N,0,,Have said its recognised issue that should resolve after reintroduction food.,T2DR - Stoke and Staffordshire
+1986966,DM9,11/11/2025,S,08/11/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Gone now and advised to see GP if worse ,T2DR - Stoke and Staffordshire
+1997826,DM9,23/04/2026,S,10/03/2026,5,,,,N,,N,,N,,,,N,,,N,0,,"Tired, exhausted and fatigued but does not know if it’s his new meds. Gone on for heart failure - meds candesartan, he thinks it could be the medication that is making him feel like this. ",T2DR - Stoke and Staffordshire
+1999623,DM9,14/01/2026,S,14/01/2026,13,,,,N,,N,,N,,,,N,,,N,0,,"Suspected Diverticulitis as had before, puts down to treats during Christmas. Seeing GP today",T2DR - Stoke and Staffordshire
+2009978,DM9,04/11/2025,S,04/11/2025,1,,,,Y,03/11/2025,N,,N,,,,N,,,N,0,,"Hasn't been toilet consistently, taking fibre, have advised more water intake.",T2DR - Stoke and Staffordshire
+2009978,DM9,21/04/2026,S,11/04/2026,4,,,,N,,N,,N,,,,N,,,N,0,,"Was away on golf holiday, didn't eat enough and fainted, went to hospital and was checked out, all clear and discharged. ",T2DR - Stoke and Staffordshire
+2022502,DM9,04/11/2025,S,02/11/2025,3,,,,N,,N,,N,,,,N,,,N,0,,Headache has gone now but told to monitor,T2DR - Stoke and Staffordshire
+2022510,DM9,11/11/2025,S,11/11/2025,11,,,,N,,N,,N,,,,N,,,N,0,,Monitor and call GP if it gets worse or continues ,T2DR - Stoke and Staffordshire
+2024907,DM9,30/01/2026,S,27/01/2026,1,,,,N,,N,,N,,,,N,,,N,0,,Has gone now but told to monitor if it comes back ,T2DR - Stoke and Staffordshire
+2028525,DM9,03/12/2025,S,03/12/2025,4,,,,N,,N,,N,,,,N,,,N,0,,Has already been to GP and under obs. due to low iron Has felt well since.,T2DR - Stoke and Staffordshire
+2028525,DM9,25/03/2026,S,25/03/2026,4,,,,N,,N,,N,,,,N,,,N,0,,"Had 1 dizzy spell, ate a banana and felt fine, assume Hypo glycaemic. Sais to monitor and if happens again.",T2DR - Stoke and Staffordshire
+2028525,DM9,20/05/2026,,,,,,,N,,N,,N,,,,N,,,N,0,,,T2DR - Stoke and Staffordshire
+2053521,DM9,25/02/2026,S,19/02/2026,14,,,,N,,N,,N,,,,N,,,N,0,,mentioned slight itch on both arms that started over the past week,T2DR - Stoke and Staffordshire
+2086950,DM9,14/04/2026,S,14/04/2026,7,,,,N,,N,,N,,,,N,,,N,0,,Discussed that she'd eaten crisps the night before. Recommended full TDR,T2DR - Stoke and Staffordshire
+2121020,DM9,24/07/2026,S,,12,Gout has come back ,,,N,,N,,N,,,,N,,,N,0,,Advised to speak to GP - has asked to go to partial as thinks shakes are causing gout. ,T2DR - Stoke and Staffordshire
+2126105,DM9,22/07/2026,S,22/07/2026,4,,,,N,,N,,N,,,,N,,,N,0,,To monitor and speak to GP if gets worse. ,T2DR - Stoke and Staffordshire
+2126105,DM9,05/08/2026,S,05/08/2026,7,,,,N,,N,,N,,,,N,,,N,0,,Monitor as comes and goes. Waiting for GP to feed back on tests that are needed anyway. Advised to go to GP if gets worse. Sickness has been going on for over a year. ,T2DR - Stoke and Staffordshire
+2130666,DM9,29/05/2026,S,28/05/2026,7,,,,N,,N,,N,,,,N,,,N,0,,"experienced nausea one an occasion, had a small meal which helped.",T2DR - Stoke and Staffordshire
+2142681,DM9,05/08/2026,S,02/08/2026,1,,,,N,,N,,N,,,,N,,,Y,0,,Constipated for 4 days. Saw GP - given laxatives. Seeing GP again tomorrow. ,T2DR - Stoke and Staffordshire
+2142681,DM9,19/08/2026,S,16/07/2026,1,,,,N,,N,,N,,,,N,,,N,0,,Has been constipated for 6 days. Drinking fluids and taking fibre. Go to GP if doesn't improve in next few days. ,T2DR - Stoke and Staffordshire
