@@ -1,6 +1,34 @@
-CREATE TABLE DimRule
+CREATE TABLE IF NOT EXISTS DimRule
 (
-	RuleKey INTEGER PRIMARY KEY,
-	RuleCode TEXT,
-	RuleDescription TEXT
+    RuleKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    RuleCode TEXT,
+    RuleDescription TEXT
+);
+
+CREATE TABLE IF NOT EXISTS DimDataset
+(
+    DatasetKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    DatasetName TEXT
+);
+
+CREATE TABLE IF NOT EXISTS DimDate
+(
+    DateKey INTEGER PRIMARY KEY,
+    FullDate TEXT,
+    MonthName TEXT,
+    MonthNumber INTEGER,
+    YearNumber INTEGER
+);
+
+CREATE TABLE IF NOT EXISTS DimReferral
+(
+    ReferralKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    ReferralID TEXT,
+    ReferralDate TEXT
+);
+
+CREATE TABLE IF NOT EXISTS DimProgramme
+(
+    ProgrammeKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    ProgrammeName TEXT
 );
