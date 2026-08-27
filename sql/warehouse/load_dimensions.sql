@@ -29,6 +29,20 @@ WHERE NOT EXISTS
     WHERE RuleCode = '207A'
 );
 
+INSERT INTO DimRule
+(
+    RuleCode,
+    RuleDescription
+)
+SELECT
+    '151A',
+    'Weight_Not_Between_35_And_300'
+WHERE NOT EXISTS
+(
+    SELECT 1
+    FROM DimRule
+    WHERE RuleCode = '151A'
+);
 
 INSERT INTO DimDataset
 (
