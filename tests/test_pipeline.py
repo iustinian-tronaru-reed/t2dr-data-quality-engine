@@ -51,7 +51,16 @@ def test_validation_results_match_fact_errors():
     fact_count = con.execute(
         """
         SELECT COUNT(*)
-        FROM FactError
+        FROM FactError fact
+        
+        INNER JOIN DimDate date
+            ON fact.DateKey = date.DateKey
+            
+        WHERE date.FullDate = 
+        (
+            SELECT DISTINCT RunDate
+            FROM stg_validation_results
+        )
         """
         ).fetchone()[0]
     
